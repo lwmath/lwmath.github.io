@@ -12,9 +12,16 @@ Hello, everyone! I'm glad to see you here. My name is Ling Wang, a PhD student a
 
 # Publications
 
-1. H. Li, J. Wang, **L. Wang**. Refined stability estimates in electrical impedance tomography with multi-layer structure. To apper in Inverse Problems & Imaging [pdf](http://lwmath.github.io/files/paper1.pdf)
++  H. Li, J. Wang, **L. Wang**. *Refined stability estimates in electrical impedance tomography with multi-layer structure*. To apper in Inverse Problems & Imaging [pdf](http://lwmath.github.io/files/paper1.pdf)
+
+# Unpublished notes
+
 
 # Teaching
-2020 fall, Advanced math C, teaching assistant
 
-2021 spring, Functional analysis, teaching assistant
++  2021 fall, *Mathematical analysis I*, teaching assistant
+
++  2021 spring, *Functional analysis*, teaching assistant
+
++  2020 fall, *Advanced math C*, teaching assistant
+
