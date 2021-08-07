@@ -14,7 +14,7 @@ Hello, everyone! I'm glad to see you here. My name is Ling Wang, a PhD student a
 
 +  H. Li, J. Wang, **L. Wang**. *Refined stability estimates in electrical impedance tomography with multi-layer structure*. To apper in Inverse Problems & Imaging. [pdf](http://lwmath.github.io/files/paper1.pdf)
 
-# Unpublished notes
+# Notes
 
 + Note in *Navier-Stokes equation*(Chinese) [pdf](http://lwmath.github.io/files/notes_pde.pdf)
 + Note in *Abstract algebra II*(Chinese) [pdf](http://lwmath.github.io/files/notes_ab_al.pdf)
