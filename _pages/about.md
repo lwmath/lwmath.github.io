@@ -10,6 +10,6 @@ redirect_from:
 
 Hello, everyone! I'm glad to see you here. My name is Ling Wang, a PhD student at SMS of Peking University. Rightnow, I'm studying geometric analysis and non-linear partial differential equations. Welcome to communicate with me!
 
-# Print
+# Publications
 
-1. Haigang Li, Jenn-Nan Wang, **Ling Wang**. Refined stability estimates in electrical impedance tomography with multi-layer structure. To apper in Inverse Problems & Imaging [pdf](http://lwmath.github.io/files/paper1.pdf)
+1. H. Li, J. Wang, **L. Wang**. Refined stability estimates in electrical impedance tomography with multi-layer structure. To apper in Inverse Problems & Imaging [pdf](http://lwmath.github.io/files/paper1.pdf)
