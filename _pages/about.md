@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, everyone! I'm glad to see you here. My name is Ling Wang, a PhD student at SMS of Peking University. Rightnow, I'm studying geometric analysis and non-linear partial differential equations. Welcome to communicate with me!
+Hello, everyone! I'm glad to see you here. My name is Ling Wang, a PhD student at SMS of Peking University. Rightnow, I'm studying **geometric analysis** and **non-linear partial differential equations**. Welcome to communicate with me!
 
 # Publications
 
