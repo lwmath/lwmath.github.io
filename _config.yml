@@ -83,7 +83,7 @@ author:
   name             : "Ling Wang"
   avatar           : "profile.png"
   bio              : "A math PhD student at Peking University"
-  location         : "School of Mathematical Sciences, Peking University, No.5 Yiheyuan Road Haidian District, Beijing, P.R.China 100871"
+  location         : #"School of Mathematical Sciences, Peking University, No.5 Yiheyuan Road Haidian District, Beijing, P.R.China 100871"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
