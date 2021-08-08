@@ -25,7 +25,7 @@ Hello, everyone! I'm glad to see you here. My name is Ling Wang, a PhD student a
 
 +  2021 fall, *Mathematical analysis I*, teaching assistant
 
-+  2021 spring, *Functional analysis*, teaching assistant
++  2021 spring, *[Functional analysis](http://lwmath.github.io/functional_analysis.md)*, teaching assistant
 
 +  2020 fall, *Advanced math C*, teaching assistant
 
