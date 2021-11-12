@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, everyone! I'm glad to see you here. My name is Ling Wang, a PhD student at SMS of Peking University. Rightnow, I'm interested in **geometric analysis** and **non-linear partial differential equations**, especialy **Monge-Ampere** type equations. There are my [math stackexchange](https://math.stackexchange.com/users/670949/ling) and [zhihu](https://www.zhihu.com/people/wang-ling-48-14). Welcome to communicate with me!
+Hello, everyone! I'm glad to see you here. My name is Ling Wang, a PhD student at SMS of Peking University. Rightnow, I'm interested in **geometric analysis** and **non-linear partial differential equations**, especialy **Monge-Ampere** type equations. There are my [math stackexchange](https://math.stackexchange.com/users/670949/ling), [zhihu](https://www.zhihu.com/people/wang-ling-48-14) and email *lingwang@stu.pku.edu.cn* & *lwang.math@foxmail.com*. Welcome to communicate with me!
 
 # Publications
 
