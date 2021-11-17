@@ -18,9 +18,9 @@ My name is Ling Wang, a PhD student at SMS of Peking University. I'm interested 
 
 # Notes
 
-+ Note in *Navier-Stokes equation*(Chinese) [pdf](http://lwmath.github.io/files/notes_pde.pdf)
-+ Note in *Abstract algebra II*(Chinese) [pdf](http://lwmath.github.io/files/notes_ab_al.pdf)
-+ *Topics in Geometry* homework [1](http://lwmath.github.io/files/homework1.pdf) [2](http://lwmath.github.io/files/homework2.pdf)
++ Note in *Navier-Stokes equation*(in Chinese) [pdf](http://lwmath.github.io/files/notes_pde.pdf)
++ Note in *Abstract algebra II*(in Chinese) [pdf](http://lwmath.github.io/files/notes_ab_al.pdf)
++ *Topics in Geometry* homework [pdf1](http://lwmath.github.io/files/homework1.pdf) [pdf2](http://lwmath.github.io/files/homework2.pdf)
 
 
 # Teaching
