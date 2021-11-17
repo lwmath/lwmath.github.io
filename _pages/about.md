@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ling Wang, a PhD student at SMS of Peking University. I'm interested in **geometric analysis** and **non-linear partial differential equations**, especialy **Monge-Ampere** type equations. There are my [math stackexchange](https://math.stackexchange.com/users/670949/ling), [zhihu](https://www.zhihu.com/people/wang-ling-48-14) and email *lingwang@stu.pku.edu.cn* & *lwang.math@foxmail.com*. Welcome to communicate with me!
+My name is Ling Wang, a PhD student at SMS of Peking University. I'm interested in **geometric analysis** and **non-linear partial differential equations**, especialy **Monge-Ampere** type equations. There are my [math stackexchange](https://math.stackexchange.com/users/670949/ling) and email *lingwang@stu.pku.edu.cn* & *lwang.math@foxmail.com*. Welcome to communicate with me!
 
 # Publications
 
-+  **L. Wang**, B. Zhou. *Interior estimates for Monge-Ampere typed fourth order equations*. Preprint.
++  **L. Wang**, B. Zhou. *Interior estimates for Monge-Ampere typed fourth order equations*. Preprint.[pdf](http://lwmath.github.io/files/int-est-4th-eq.pdf)
 
 +  H. Li, J. Wang, **L. Wang**. *Refined stability estimates in electrical impedance tomography with multi-layer structure*. To apper in Inverse Problems & Imaging. [pdf](http://lwmath.github.io/files/paper1.pdf)
 
