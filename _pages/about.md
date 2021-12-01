@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Ling Wang, a PhD student at SMS of Peking University. My PhD advisor is [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm).<br>
 Recently, I'm interested in **geometric analysis** and **nonlinear partial differential equations** arising from geometry, especialy **Monge-Ampere** type equations. <br>
-There are my [math stackexchange](https://math.stackexchange.com/users/670949/ling) and email *lingwang@stu.pku.edu.cn* & *lwang.math@foxmail.com*. <br>
+My [math stackexchange](https://math.stackexchange.com/users/670949/ling) and email *lingwang@stu.pku.edu.cn* & *lwang.math@foxmail.com*. <br>
 Welcome to communicate with me!
 
 # Publications
