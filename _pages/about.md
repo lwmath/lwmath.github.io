@@ -30,7 +30,7 @@ Welcome to communicate with me!
 
 +  2021 fall, *Mathematical analysis I*, teaching assistant
 
-+  2021 spring, *Functional analysis*, teaching assistant  [midterms](http://lwmath.github.io/files/FA-mid-exam.pdf) [final](http://lwmath.github.io/files/FA-final-exam.pdf)
++  2021 spring, *Functional analysis*, teaching assistant  ([midterms](http://lwmath.github.io/files/FA-mid-exam.pdf), [final](http://lwmath.github.io/files/FA-final-exam.pdf))
 
 +  2020 fall, *Advanced math C*, teaching assistant
 
