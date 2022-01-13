@@ -15,9 +15,9 @@ Welcome to communicate with me!
 
 # Publications
 
-+  **L. Wang**, B. Zhou. *Interior estimates for Monge-Ampere typed fourth order equations*. Preprint.
++  **L. Wang** and B. Zhou. Interior estimates for Monge-Ampere typed fourth order equations. Preprint.
 
-+  H. Li, J. Wang, **L. Wang**. *Refined stability estimates in electrical impedance tomography with multi-layer structure*. To apper in Inverse Problems & Imaging. [pdf](http://lwmath.github.io/files/paper1.pdf)
++  H. Li, J. Wang and **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure.](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048) *Inverse Problems & Imaging*, 2022, 16 (1) : 229-249. [pdf](http://lwmath.github.io/files/paper1.pdf)
 
 # Notes
 
@@ -28,9 +28,9 @@ Welcome to communicate with me!
 
 # Teaching
 
-+  2021 fall, *Mathematical analysis I*, teaching assistant
++  2021 fall, *Mathematical analysis I*, teaching assistant ([Problem set]((http://lwmath.github.io/files/xitike.pdf))
 
-+  2021 spring, *Functional analysis*, teaching assistant  ([midterms](http://lwmath.github.io/files/FA-mid-exam.pdf), [final](http://lwmath.github.io/files/FA-final-exam.pdf))
++  2021 spring, *Functional analysis*, teaching assistant  ([Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf), [Final](http://lwmath.github.io/files/FA-final-exam.pdf))
 
 +  2020 fall, *Advanced math C*, teaching assistant
 
