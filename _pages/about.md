@@ -15,9 +15,9 @@ Welcome to communicate with me!
 
 # Publications
 
-+  **L. Wang** and B. Zhou. Interior estimates for Monge-Ampère typed fourth order equations. Preprint.
++  **L. Wang** & B. Zhou. Interior estimates for Monge-Ampère typed fourth order equations. Preprint.
 
-+  H. Li, J. Wang and **L. Wang**. Refined stability estimates in electrical impedance tomography with multi-layer structure. *Inverse Problems & Imaging*, 2022, 16 (1) : 229-249. [pdf](http://lwmath.github.io/files/paper1.pdf)
++  H. Li, J. Wang & **L. Wang**. Refined stability estimates in electrical impedance tomography with multi-layer structure. *Inverse Problems & Imaging*, 2022, 16 (1) : 229-249. [pdf](http://lwmath.github.io/files/paper1.pdf)
 
 # Notes
 
