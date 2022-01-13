@@ -10,14 +10,14 @@ redirect_from:
 
 My name is Ling Wang, a PhD student at SMS of Peking University. My PhD advisor is [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm).<br>
 Recently, I'm interested in **geometric analysis** and **nonlinear partial differential equations** arising from geometry, especialy **Monge-Ampere** type equations. <br>
-These are my [math stackexchange](https://math.stackexchange.com/users/670949/ling) and my emails *lingwang@stu.pku.edu.cn* & *lwang.math@foxmail.com*. <br>
+These are my [MSE](https://math.stackexchange.com/users/670949/ling) and my emails *lingwang@stu.pku.edu.cn* & *lwang.math@foxmail.com*. <br>
 Welcome to communicate with me!
 
 # Publications
 
 +  **L. Wang** and B. Zhou. Interior estimates for Monge-Ampere typed fourth order equations. Preprint.
 
-+  H. Li, J. Wang and **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure.](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048) *Inverse Problems & Imaging*, 2022, 16 (1) : 229-249. [pdf](http://lwmath.github.io/files/paper1.pdf)
++  H. Li, J. Wang and **L. Wang**. Refined stability estimates in electrical impedance tomography with multi-layer structure. *Inverse Problems & Imaging*, 2022, 16 (1) : 229-249. [pdf](http://lwmath.github.io/files/paper1.pdf)
 
 # Notes
 
@@ -28,9 +28,9 @@ Welcome to communicate with me!
 
 # Teaching
 
-+  2021 fall, *Mathematical analysis I*, teaching assistant ([Problem set]((http://lwmath.github.io/files/xitike.pdf))
++  2021 fall, *Mathematical analysis I*, teaching assistant [Problem set](http://lwmath.github.io/files/xitike.pdf)
 
-+  2021 spring, *Functional analysis*, teaching assistant  ([Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf), [Final](http://lwmath.github.io/files/FA-final-exam.pdf))
++  2021 spring, *Functional analysis*, teaching assistant  [Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf), [Final](http://lwmath.github.io/files/FA-final-exam.pdf)
 
 +  2020 fall, *Advanced math C*, teaching assistant
 
