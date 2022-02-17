@@ -36,4 +36,4 @@ Welcome to communicate with me!
 
 +  2020 fall, *Advanced math C*, teaching assistant
 
-**Last updated: 2022. 2. 13**
+**Last updated: 2022. 2. 17**
