@@ -28,7 +28,7 @@ Welcome to communicate with me!
 
 # Teaching
 
-+  2022 spring, *Arithmetic of elliptic curves*, teaching assistant; *Diophantine approximation*, teaching assistant
++  2022 spring, *Arithmetic of elliptic curves*, teaching assistant;<br> *Diophantine approximation*, teaching assistant
 
 +  2021 fall, *Mathematical analysis I*, teaching assistant ([Problem set](http://lwmath.github.io/files/xitike.pdf))
 
