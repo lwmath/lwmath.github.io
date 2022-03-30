@@ -20,7 +20,7 @@ Welcome to communicate with me!
 +  H. G. Li, JN. Wang, **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048). *Inverse Problems & Imaging*, 2022, 16 (1) : 229-249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
 
 # Notes
-
++ Note for *Afiine Bernstein problem* [pdf](http://lwmath.github.io/files/affine_Bernstein_problem.pdf)
 + Note in *Navier-Stokes equation* (in Chinese) [pdf](http://lwmath.github.io/files/notes_pde.pdf)
 + Note in *Abstract algebra II* (in Chinese) [pdf](http://lwmath.github.io/files/notes_ab_al.pdf)
 + *Topics in Geometry* homework [1](http://lwmath.github.io/files/homework1.pdf) [2](http://lwmath.github.io/files/homework2.pdf)
@@ -39,4 +39,4 @@ Welcome to communicate with me!
 
 +  2020 fall, *Advanced math C* &nbsp;  ([Final](http://lwmath.github.io/files/Final_exam.pdf))
 
-**Last updated: 2022. 3. 20**
+**Last updated: 2022. 3. 30**
