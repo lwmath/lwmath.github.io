@@ -39,4 +39,4 @@ Welcome to communicate with me!
 
 +  2020 fall, *Advanced math C* &nbsp;  ([Final](http://lwmath.github.io/files/Final_exam.pdf))
 
-**Last updated: 2022. 3. 30**
+**Last updated: 2022. 3. 31**
