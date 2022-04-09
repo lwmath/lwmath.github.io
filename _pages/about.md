@@ -18,6 +18,7 @@ Welcome to communicate with me!
 +  **L. Wang**, B. Zhou. Interior estimates for Monge-Ampère typed fourth order equations. Preprint.
 
 +  H. G. Li, JN. Wang, **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048). *Inverse Problems & Imaging*, 2022, 16 (1) : 229-249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
++  K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). *Journal of Alloys & Compounds*, 2015, 646: 277-282.
 
 # Notes
 + *Affine Bernstein problem* [pdf](http://lwmath.github.io/files/Affi_Bern_Prob.pdf)
@@ -39,4 +40,4 @@ Welcome to communicate with me!
 
 +  2020 fall, *Advanced math C* &nbsp;  ([Final](http://lwmath.github.io/files/Final_exam.pdf))
 
-**Last updated: 2022. 3. 31**
+**Last updated: 2022. 4. 9**
