@@ -38,6 +38,6 @@ Welcome to communicate with me!
 
 +  2021 spring, *Functional analysis* &nbsp; ([Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf), [Final](http://lwmath.github.io/files/FA-final-exam.pdf))
 
-+  2020 fall, *Advanced math C* &nbsp;  ([Final](http://lwmath.github.io/files/Final_exam.pdf)) &nbsp;([Adv.Math. B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf))
++  2020 fall, *Advanced math C* &nbsp;  ([Final](http://lwmath.github.io/files/Final_exam.pdf)) &nbsp;([Adv.Math. B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf))&nbsp; ([Midterms2022](http://lwmath.github.io/files/Adv_math_2.pdf))
 
-**Last updated: 2022. 4. 9**
+**Last updated: 2022. 5. 3**
