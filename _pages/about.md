@@ -16,7 +16,7 @@ Welcome to communicate with me!
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 # Publications
 
-+  **L. Wang**, B. Zhou. Interior estimates for Monge-Ampère typed fourth order equations. Preprint. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)
++  **L. Wang**, B. Zhou. Interior estimates for Monge-Ampère type fourth order equations. Preprint. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)
 
 +  H. G. Li, JN. Wang, **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048). *Inverse Problems & Imaging*, 2022, 16 (1) : 229-249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
 +  K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). *Journal of Alloys & Compounds*, 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
@@ -33,8 +33,8 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 
 **Teaching assistant**
 
-+  2022 spring, *Arithmetic of elliptic curves* &nbsp; [Files](https://disk.pku.edu.cn:443/link/3BEABC9DC04297D5A0E5368A5AF67642)<br> 
-   &emsp; &emsp; &emsp; &nbsp; &emsp; *Diophantine approximation* &nbsp;  [Files](https://disk.pku.edu.cn:443/link/E23B0FC4C7794B2D7BB49F2EF2F5F043)
++  2022 spring, *Arithmetic of elliptic curves* &nbsp; [Files](https://www.aliyundrive.com/s/rySiA1fPfVD)<br> 
+   &emsp; &emsp; &emsp; &nbsp; &emsp; *Diophantine approximation* &nbsp;  [Files](https://www.aliyundrive.com/s/QUdGkSWeBm5)
 
 +  2021 fall, *Mathematical analysis I* &nbsp; [Exercise](http://lwmath.github.io/files/xitike.pdf)  &nbsp;[Midterms](http://lwmath.github.io/files/MA_mid.pdf) &nbsp;[Final](http://lwmath.github.io/files/MA_final.pdf) &nbsp;[Mid2021](http://lwmath.github.io/files/Math_Anal.pdf)
 
@@ -42,4 +42,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 
 +  2020 fall, *Advanced math C* &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math. B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf)
 
-**Last updated: 2022. 5. 29**
+**Last updated: 2022. 5. 30**
