@@ -22,6 +22,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 +  K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). *Journal of Alloys & Compounds*, 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
 
 # Notes
++ *Nonlinear Analysis* homework [ExI](http://lwmath.github.io/files/exersicesI.pdf) [ExII](http://lwmath.github.io/files/exersicesII.pdf) [pdf](http://lwmath.github.io/files/Ex_Non_Anal.pdf)
 + *Bernstein problem* [pdf](http://lwmath.github.io/files/Bernstein_problem.pdf)
 + *Affine Bernstein problem* [pdf](http://lwmath.github.io/files/Affi_Bern_Prob.pdf)
 + *Navier-Stokes equation* (in Chinese) [pdf](http://lwmath.github.io/files/notes_pde.pdf)
@@ -42,4 +43,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 
 +  2020 fall, *Advanced math C* &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math. B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf)
 
-**Last updated: 2022. 6. 7**
+**Last updated: 2022. 6. 12**
