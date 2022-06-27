@@ -45,8 +45,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 +  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math. B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf)
 
 
-# Interesting References
-
-+ Liouville-Type Theorems for Elliptic Problems [Link](https://www.sciencedirect.com/science/article/pii/S1874573307800052)
-
 **Last updated: 2022. 6. 27**
