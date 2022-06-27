@@ -33,14 +33,20 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 # Teaching
 
 **Teaching assistant**
++  2022 Fall, Mathematical analysis I
 
-+  2022 spring, Arithmetic of elliptic curves &nbsp; [Files](https://www.aliyundrive.com/s/rySiA1fPfVD)<br> 
++  2022 Spring, Arithmetic of elliptic curves &nbsp; [Files](https://www.aliyundrive.com/s/rySiA1fPfVD)<br> 
    &emsp; &emsp; &emsp; &nbsp; &emsp; Diophantine approximation &nbsp;  [Files](https://www.aliyundrive.com/s/QUdGkSWeBm5)
 
-+  2021 fall, Mathematical analysis I &nbsp; [Exercise](http://lwmath.github.io/files/xitike.pdf)  &nbsp;[Midterms](http://lwmath.github.io/files/MA_mid.pdf) &nbsp;[Final](http://lwmath.github.io/files/MA_final.pdf) &nbsp;[Mid2021](http://lwmath.github.io/files/Math_Anal.pdf)
++  2021 Fall, Mathematical analysis I &nbsp; [Exercise](http://lwmath.github.io/files/xitike.pdf)  &nbsp;[Midterms](http://lwmath.github.io/files/MA_mid.pdf) &nbsp;[Final](http://lwmath.github.io/files/MA_final.pdf) &nbsp;[Mid2021](http://lwmath.github.io/files/Math_Anal.pdf)
 
-+  2021 spring, Functional analysis &nbsp; [Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf) &nbsp; [Final](http://lwmath.github.io/files/FA-final-exam.pdf)
++  2021 Spring, Functional analysis &nbsp; [Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf) &nbsp; [Final](http://lwmath.github.io/files/FA-final-exam.pdf)
 
-+  2020 fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math. B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf)
++  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math. B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf)
 
-**Last updated: 2022. 6. 12**
+
+# Interesting References
+
++ Liouville-Type Theorems for Elliptic Problems [Link](https://www.sciencedirect.com/science/article/pii/S1874573307800052)
+
+**Last updated: 2022. 6. 27**
