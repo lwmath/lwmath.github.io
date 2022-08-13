@@ -46,4 +46,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 +  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math. B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf)
 
 
-**Last updated: 2022. 8. 1**
+# Interesting References
++ [N. S.](https://math.stackexchange.com/users/9176/n-s), $ \int\frac{\sin(nx) \sin x}{1-\cos x} \,dx$ by elementary methods. [URL](https://math.stackexchange.com/q/1636667)(version: 2016-02-05)
+
+**Last updated: 2022. 8. 13**
