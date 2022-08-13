@@ -49,4 +49,8 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 # Interesting References
 + [N. S.](https://math.stackexchange.com/users/9176/n-s), $ \int\frac{\sin(nx) \sin x}{1-\cos x} \,dx$ by elementary methods. [URL](https://math.stackexchange.com/q/1636667)(version: 2016-02-05)
 
++ Farina, A., [Liouville-type theorems for elliptic problems.](https://doi.org/10.1016/S1874-5733(07)80005-2) *Handbook of differential equations: stationary partial differential equations*. Vol. IV, 61–116, Handb. Differ. Equ., *Elsevier/North-Holland, Amsterdam*, 2007.
+
+
+
 **Last updated: 2022. 8. 13**
