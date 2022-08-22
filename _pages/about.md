@@ -35,6 +35,8 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
 **Teaching assistant**
 +  2022 Fall, Mathematical analysis I
 
++  2022 Summer, [Summer School on Differential Geometry](https://bicmr.pku.edu.cn/content/show/17-2756.html?catid=KiQhKyYs) &nbsp; [CG](http://lwmath.github.io/files/22summer_ComplexGeometry.pdf) &nbsp;[RG](http://lwmath.github.io/files/22summer_RiemGeometry.pdf) &nbsp;[PDE](http://lwmath.github.io/files/22summer_PDE.pdf)
+
 +  2022 Spring, Arithmetic of elliptic curves &nbsp; [Files](https://www.aliyundrive.com/s/rySiA1fPfVD)
 
 +  2022 Spring, Diophantine approximation &nbsp;  [Files](https://www.aliyundrive.com/s/QUdGkSWeBm5)
