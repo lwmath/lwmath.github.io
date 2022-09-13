@@ -13,7 +13,7 @@ Recently, I'm interested in **geometric analysis** and **nonlinear PDEs**, espec
 These are my [MSE](https://math.stackexchange.com/users/670949/ling) and my emails *lingwang@stu.pku.edu.cn* & *lwang.math@foxmail.com*. <br>
 Welcome to communicate with me!
 
-This is my [CV](http://lwmath.github.io/files/CV_lw.pdf).
+This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 # Publications
 
 +  **L. Wang**, B. Zhou. [Interior estimates for Monge-Ampère type fourth order equations.](https://doi.org/10.4171/rmi/1361) To appear in Revista Matemática Iberoamericana. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2206.02309)
