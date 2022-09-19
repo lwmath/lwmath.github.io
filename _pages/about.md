@@ -45,7 +45,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 
 +  2021 Spring, Functional analysis &nbsp; [Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf) &nbsp; [Final](http://lwmath.github.io/files/FA-final-exam.pdf)
 
-+  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math. B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf)
++  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math.B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf) &nbsp;[Final22](http://lwmath.github.io/files/advmathb.pdf) 
 
 
 # Interesting References
@@ -57,4 +57,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 
 
 
-**Last updated: 2022. 9. 13**
+**Last updated: 2022. 9. 19**
