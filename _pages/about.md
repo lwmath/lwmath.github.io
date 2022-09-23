@@ -35,7 +35,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 # Teaching
 
 **Teaching assistant**
-+  2022 Fall, Mathematical analysis I
++  2022 Fall, Mathematical analysis I &nbsp; [Exercise](http://lwmath.github.io/files/exercise.pdf)
 
 +  2022 Summer, [Summer School on Differential Geometry](https://bicmr.pku.edu.cn/content/show/17-2756.html?catid=KiQhKyYs) &nbsp; [CG](http://lwmath.github.io/files/22summer_ComplexGeometry.pdf) &nbsp;[RG](http://lwmath.github.io/files/22summer_RiemGeometry.pdf) &nbsp;[PDE](http://lwmath.github.io/files/22summer_PDE.pdf)
 
@@ -59,4 +59,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 
 
 
-**Last updated: 2022. 9. 19**
+**Last updated: 2022. 9. 23**
