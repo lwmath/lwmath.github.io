@@ -16,6 +16,8 @@ Welcome to communicate with me!
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 # Publications
 
++ Y. H. Kim, N. Q. Le, **L. Wang**, B. Zhou. Singular Abreu equations and linearized Monge-Ampère equations with drifts. Preprint. [pdf](http://lwmath.github.io/files/singular_Abreu_HD.pdf)
+
 +  **L. Wang**, B. Zhou. [Interior estimates for Monge-Ampère type fourth order equations.](https://doi.org/10.4171/rmi/1361) To appear in Revista Matemática Iberoamericana. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2206.02309)
 
 +  H. G. Li, J. -N. Wang, **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048). *Inverse Problems & Imaging*, 2022, 16 (1) : 229-249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
