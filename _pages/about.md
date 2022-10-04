@@ -58,7 +58,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 
 + [N. S.](https://math.stackexchange.com/users/9176/n-s), $ \int\frac{\sin(nx) \sin x}{1-\cos x} \,dx$ by elementary methods. [URL](https://math.stackexchange.com/q/1636667)(version: 2016-02-05)
 
-+ [cygnusx251](https://artofproblemsolving.com/community/user/526158), If $f$ is defined on $(a,+\infty)$ and $f'$, $f''$ exist, with $\lim\limits_{x\to+\infty}f(x)=0$ and $f''$ is bounded, prove that $\lim\limits_{x\to+\infty}f'(x)=0$. [link](https://artofproblemsolving.com/community/c7h2318556p18483376)
++ [cygnusx251](https://artofproblemsolving.com/community/user/526158), If $f$ is defined on $(0,+\infty)$ and $f'$, $f''$ exist, with $\lim\limits_{x\to+\infty}f(x)=0$ and $f''$ is bounded, prove that $\lim\limits_{x\to+\infty}f'(x)=0$. [link](https://artofproblemsolving.com/community/c7h2318556p18483376)
 
 
 **Last updated: 2022. 10. 4**
