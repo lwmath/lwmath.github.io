@@ -48,7 +48,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 
 +  2021 Spring, Functional analysis &nbsp; [Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf) &nbsp; [Final](http://lwmath.github.io/files/FA-final-exam.pdf)
 
-+  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math.B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf) &nbsp;[Final22](http://lwmath.github.io/files/advmathb.pdf) 
++  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Adv.Math.B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid2021](http://lwmath.github.io/files/mid2021.pdf) &nbsp; [Mid2022](http://lwmath.github.io/files/Adv_math_2.pdf) &nbsp;[Final22](http://lwmath.github.io/files/advmathb.pdf) 
 
 
 # Interesting References
@@ -56,9 +56,9 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 
 + Farina, A., Liouville-type theorems for elliptic problems. [link](https://doi.org/10.1016/S1874-5733(07)80005-2)
 
-+ [N. S.](https://math.stackexchange.com/users/9176/n-s), $ \int\frac{\sin(nx) \sin x}{1-\cos x} \,dx$ by elementary methods. [URL](https://math.stackexchange.com/q/1636667)(version: 2016-02-05)
++ N. S., $\begin{aligned}\int\frac{\sin(nx) \sin x}{1-\cos x} \,dx\end{aligned}$ by elementary methods. [link](https://math.stackexchange.com/q/1636667)
 
-+ [cygnusx251](https://artofproblemsolving.com/community/user/526158), If $f$ is defined on $(0,+\infty)$ and $f'$, $f''$ exist, with $\lim\limits_{x\to+\infty}f(x)=0$ and $f''$ is bounded, prove that $\lim\limits_{x\to+\infty}f'(x)=0$. [link](https://artofproblemsolving.com/community/c7h2318556p18483376)
++ cygnusx251, If $f$ is defined on $(0,+\infty)$ and $f'$, $f''$ exist, with $\lim\limits_{x\to+\infty}f(x)=0$ and $f''$ is bounded, prove that $\lim\limits_{x\to+\infty}f'(x)=0$. [link](https://artofproblemsolving.com/community/c7h2318556p18483376)
 
 
-**Last updated: 2022. 10. 4**
+**Last updated: 2022. 10. 14**
