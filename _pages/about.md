@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Ling Wang, a PhD student at SMS of Peking University. My PhD advisor is [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm).<br>
 Recently, I'm interested in **geometric analysis** and **nonlinear PDEs**, especialy **Monge-Ampère** type equations. <br>
-These are my [MSE](https://math.stackexchange.com/users/670949/ling) and my emails *lingwang@stu.pku.edu.cn* & *lwang.math@foxmail.com*. <br>
+My [MSE](https://math.stackexchange.com/users/670949/ling) and my emails: *lingwang@stu.pku.edu.cn* & *lwmath@foxmail.com*. <br>
 Welcome to communicate with me!
 
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
@@ -61,4 +61,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 + cygnusx251, If $f$ is defined on $(0,+\infty)$ and $f'$, $f''$ exist, with $\lim\limits_{x\to+\infty}f(x)=0$ and $f''$ is bounded, prove that $\lim\limits_{x\to+\infty}f'(x)=0$. [link](https://artofproblemsolving.com/community/c7h2318556p18483376)
 
 
-**Last updated: 2022. 10. 14**
+**Last updated: 2022. 10. 24**
