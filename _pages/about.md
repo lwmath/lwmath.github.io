@@ -50,7 +50,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 
 +  2021 Spring, Functional analysis &nbsp; [Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf) &nbsp; [Final](http://lwmath.github.io/files/FA-final-exam.pdf)
 
-+  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Math B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid21](http://lwmath.github.io/files/mid2021.pdf) &nbsp; [Mid22](http://lwmath.github.io/files/Adv_math_2.pdf) &nbsp;[Final22](http://lwmath.github.io/files/advmathb.pdf) &nbsp;[Final22-23](http://lwmath.github.io/files/2022-23-B.pdf)  
++  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Math B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid21](http://lwmath.github.io/files/mid2021.pdf) &nbsp; [Mid22](http://lwmath.github.io/files/Adv_math_2.pdf) &nbsp;[Final22](http://lwmath.github.io/files/advmathb.pdf) &nbsp;[Math B23](http://lwmath.github.io/files/2022-23-B.pdf)  &nbsp;[Final23](http://lwmath.github.io/files/22-23-C.pdf)
 
 
 # Interesting References
