@@ -56,13 +56,13 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2022).
 +  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Math B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid21](http://lwmath.github.io/files/mid2021.pdf) &nbsp; [Mid22](http://lwmath.github.io/files/Adv_math_2.pdf) &nbsp;[Final22](http://lwmath.github.io/files/advmathb.pdf) &nbsp;[Final-B-23](http://lwmath.github.io/files/2022-23-B.pdf)  &nbsp;[Final23](http://lwmath.github.io/files/22-23-C.pdf)
 -->
 
-# Interesting References
+# [Interesting References](https://lwmath.github.io/References/References.html)
 
-
+<!--
 + Farina, A., Liouville-type theorems for elliptic problems. [link](https://doi.org/10.1016/S1874-5733(07)80005-2)
 
 + N. S., $\begin{aligned}\int\frac{\sin(nx) \sin x}{1-\cos x} \,dx\end{aligned}$ by elementary methods. [link](https://math.stackexchange.com/q/1636667)
+-->
 
 
-
-**Last updated: 2023. 2. 13**
+**Last updated: 2023. 2. 21**
