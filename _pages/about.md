@@ -28,7 +28,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2023).
 +  K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). *Journal of Alloys & Compounds*, 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
 
 # Notes
-+ Weierstrass approximation theorem [pdf](http://lwmath.github.io/files/MAT.pdf)
++ Weierstrass approximation theorem [pdf](http://lwmath.github.io/files/WAT.pdf)
 + Boundary Hölder regularity of uniformly elliptic equations with drifts [pdf](http://lwmath.github.io/files/Boundary_Holder.pdf)
 + Nonlinear Analysis homework [ExI](http://lwmath.github.io/files/exersicesI.pdf) [ExII](http://lwmath.github.io/files/exercisesII.pdf) [pdf](http://lwmath.github.io/files/Ex_Non_Anal.pdf)
 + Bernstein problem [pdf](http://lwmath.github.io/files/Bernstein_problem.pdf)
