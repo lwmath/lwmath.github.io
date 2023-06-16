@@ -29,7 +29,6 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2023).
 
 # Notes
 + An estimate for the Laplacian of Pick invariant [pdf](http://lwmath.github.io/files/est_Pick.pdf)
-+ Weierstrass approximation theorem [pdf](http://lwmath.github.io/files/WAT.pdf)
 + Boundary Hölder regularity of uniformly elliptic equations with drifts [pdf](http://lwmath.github.io/files/Boundary_Holder.pdf)
 + Nonlinear Analysis homework [ExI](http://lwmath.github.io/files/exersicesI.pdf) [ExII](http://lwmath.github.io/files/exercisesII.pdf) [pdf](http://lwmath.github.io/files/Ex_Non_Anal.pdf)
 + Bernstein problem [pdf](http://lwmath.github.io/files/Bernstein_problem.pdf)
