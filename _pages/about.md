@@ -11,7 +11,7 @@ redirect_from:
 
 Currently, I'm a PhD candidate at the School of Mathematical Sciences, Peking University. My PhD supervisor is [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm).<br>
 Recently, I'm interested in **geometric analysis** and **nonlinear PDEs**, especialy **Monge-Ampère** type equations. <br>
-My office is Room 105, Building 19, Peking University. <br>
+My office is Room 203, Building 19, Peking University. <br>
 My [MSE](https://math.stackexchange.com/users/670949/ling) and my emails: <lingwang@stu.pku.edu.cn> & <lwmath@foxmail.com>. <br>
 Welcome to communicate with me!
 
