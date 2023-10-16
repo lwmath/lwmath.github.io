@@ -15,7 +15,7 @@ My office is Room 203, Building 19, Peking University. <br>
 My [MSE](https://math.stackexchange.com/users/670949/ling) and my emails: <lingwang@stu.pku.edu.cn> & <lwmath@foxmail.com>. <br>
 Welcome to communicate with me!
 
-This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2023).
+This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Oct. 2023).
 # Publications
 
 + **L. Wang**, B. Zhou. Liouville theorems for a class of degenerate or singular Monge-Ampère equations. Preprint. [pdf](http://lwmath.github.io/files/Liou_MA_2d.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2304.12060)
@@ -68,4 +68,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2023).
 -->
 
 
-**Last updated: 2023. 10. 8**
+**Last updated: 2023. 10. 16**
