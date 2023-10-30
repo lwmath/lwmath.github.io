@@ -1,6 +1,30 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
+  
+
+{{-- echart画图工具 --}}
+<script src="{{asset('static/echarts/echarts.min.js')}}" defer></script>
+
+
+{{-- mathjax渲染latex公式; 初始会自动对elements渲染一次 --}}
+<script type="text/x-mathjax-config">
+    window.MathJax.Hub.Config({
+        showProcessingMessages: false, //关闭js加载过程信息
+        messageStyle: "none",          //不显示信息
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+            inlineMath: [["\\$", "\\$"], ["\\(", "\\)"]], //行内公式选择符
+            displayMath: [["$$", "$$"], ["\\[", "\\]"]],  //段内公式选择符
+            skipTags: ["script", "noscript", "style", "textarea", "pre", "code", "a", "tips"], //避开某些标签
+            ignoreClass:"not_math"  // 避开class
+        },
+        "HTML-CSS": {
+            availableFonts: ["STIX", "TeX"], //可选字体
+            showMathMenu: false     //关闭右击菜单显示
+        },
+        elements: [document.getElementsByClassName("math_formula")]  // 允许渲染的dom
+
+  
   <head>
     <meta content="text/html; charset=windows-1252" http-equiv="content-type">
     <title>References</title>
@@ -13,7 +37,7 @@
     <ul>
 
       <p> <li> Lee, S., 
-        What is $\lim\limits_{n\to\infty}\frac1n \left(\text{maximum value of }\sum\limits_{k=1}^n\sin (kx)\right)$? <a href="https://math.stackexchange.com/q/4784297"> link </a> </p>
+        What is \\$\lim\limits_{n\to\infty}\frac1n \left(\text{maximum value of }\sum\limits_{k=1}^n\sin (kx)\right)\\$? <a href="https://math.stackexchange.com/q/4784297"> link </a> </p>
       
       <p> <li> Merx，J.-P., 
         A continuous function with divergent Fourier series. <a href="https://www.mathcounterexamples.net/continuous-function-with-divergent-fourier-series/"> link </a> </p>
