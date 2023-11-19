@@ -22,9 +22,9 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Oct. 2023).
 
 + Y. H. Kim, N. Q. Le, **L. Wang**, B. Zhou. Singular Abreu equations and linearized Monge-Ampère equations with drifts. Preprint. [pdf](http://lwmath.github.io/files/singular_Abreu_HD.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2209.11681)
 
-+  **L. Wang**, B. Zhou. [Interior estimates for Monge-Ampère type fourth order equations](https://doi.org/10.4171/rmi/1361). **Rev. Mat. Iberoam.**, 39 (2023), no.5, 1895–1923. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2206.02309)
++  **L. Wang**, B. Zhou. [Interior estimates for Monge-Ampère type fourth order equations](https://doi.org/10.4171/rmi/1361). **Rev. Mat. Iberoam.**, 39 (2023), no. 5, 1895–1923. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2206.02309)
 
-+  H. G. Li, J. -N. Wang, **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048). **Inverse Probl. Imaging**, 16 (2022), no.1, 229–249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
++  H. G. Li, J. -N. Wang, **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048). **Inverse Probl. Imaging**, 16 (2022), no. 1, 229–249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
 +  K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). **Journal of Alloys & Compounds**, 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
 
 # Notes
