@@ -20,7 +20,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Oct. 2023).
 
 + **L. Wang**, B. Zhou. Liouville theorems for a class of degenerate or singular Monge-Ampère equations. Preprint. [pdf](http://lwmath.github.io/files/Liou_MA_2d_revised.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2304.12060)
 
-+ Y. H. Kim, N. Q. Le, **L. Wang**, B. Zhou. Singular Abreu equations and linearized Monge-Ampère equations with drifts. Preprint. [pdf](http://lwmath.github.io/files/singular_Abreu_HD.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2209.11681)
++ Y. H. Kim, N. Q. Le, **L. Wang**, B. Zhou. Singular Abreu equations and linearized Monge-Ampère equations with drifts. Preprint. [pdf](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2209.11681)
 
 +  **L. Wang**, B. Zhou. [Interior estimates for Monge-Ampère type fourth order equations](https://doi.org/10.4171/rmi/1361). **Rev. Mat. Iberoam.**, 39 (2023), no. 5, 1895–1923. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2206.02309)
 
