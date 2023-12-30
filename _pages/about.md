@@ -28,6 +28,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Oct. 2023).
 +  K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). **Journal of Alloys & Compounds**, 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
 
 # Notes
++ The Hessian of support functions on round sphere [pdf](http://lwmath.github.io/files/Hess_on_Sphere.pdf)
 + A calculation for the third fundamental form [pdf](http://lwmath.github.io/files/3rd_form.pdf)
 + An estimate for the Laplacian of Pick invariant [pdf](http://lwmath.github.io/files/est_Pick.pdf)
 + Boundary Hölder regularity of uniformly elliptic equations with drifts [pdf](http://lwmath.github.io/files/Boundary_Holder.pdf)
