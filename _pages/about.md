@@ -15,8 +15,10 @@ My office is Room 203, Building 19, Peking University. <br>
 My [MSE](https://math.stackexchange.com/users/670949/ling) and my emails: <lingwang@stu.pku.edu.cn> & <lwmath@foxmail.com>. <br>
 Welcome to communicate with me!
 
-This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Oct. 2023).
+This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2024).
 # Publications
+
++ **L. Wang**, B. Zhou. $C^{1,\alpha}$ regularity of variational problems with a convexity constraint. Preprint. [pdf](http://lwmath.github.io/files/Int_Regularity.pdf)
 
 + **L. Wang**, B. Zhou. Liouville theorems for a class of degenerate or singular Monge-Ampère equations. Preprint. [pdf](http://lwmath.github.io/files/Liou_MA_2d_revised.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2304.12060)
 
@@ -28,6 +30,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Oct. 2023).
 +  K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). **Journal of Alloys & Compounds**, 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
 
 # Notes
++ Regularities for a minimizer of some functionals]{Regularities for a minimizer of some functionals with a convexity constraint [pdf](http://lwmath.github.io/files/Int_Regularity_sim.pdf)
 + The Hessian of support functions on round sphere [pdf](http://lwmath.github.io/files/Hess_on_Sphere.pdf)
 + A calculation for the third fundamental form [pdf](http://lwmath.github.io/files/3rd_form.pdf)
 + An estimate for the Laplacian of Pick invariant [pdf](http://lwmath.github.io/files/est_Pick.pdf)
@@ -70,4 +73,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Oct. 2023).
 -->
 
 
-**Last updated: 2023. 11. 4**
+**Last updated: 2024. 3. 8**
