@@ -11,7 +11,8 @@ redirect_from:
 
 I'm currently pursuing my PhD at the School of Mathematical Sciences, Peking University, under the supervision of [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm).<br>
 My research interests lie primarily in **geometric analysis** and **nonlinear PDEs**, with a particular focus on **Monge-Ampère** type equations.<br>
-You can find me at Room 203, Building 19, Peking University. Feel free to reach out to me via email at <lingwang@stu.pku.edu.cn> & <lwmath@foxmail.com> and via [MSE](https://math.stackexchange.com/users/670949/ling). <br>
+You can find me at Room 203, Building 19, Peking University. <br> 
+Feel free to reach out to me via email at <lingwang@stu.pku.edu.cn> & <lwmath@foxmail.com> and via [MSE](https://math.stackexchange.com/users/670949/ling). <br>
 I'm always open to communication and collaboration!
 
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2024).
