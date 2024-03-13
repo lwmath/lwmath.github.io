@@ -27,7 +27,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2024).
 
   H. G. Li, J. -N. Wang, **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048). **Inverse Probl. Imaging**, 16 (2022), no. 1, 229–249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
 
-【1】 K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). **Journal of Alloys & Compounds**, 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
+[1]&nbsp; K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). **Journal of Alloys & Compounds**, 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
  
 # Notes
 + Regularities for a minimizer of some functionals with a convexity constraint [pdf](http://lwmath.github.io/files/Int_Regularity_sim.pdf)
