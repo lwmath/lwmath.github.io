@@ -18,17 +18,46 @@ I'm always open to communication and collaboration!
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2024).
 # Publications
 
- **L. Wang**, B. Zhou. C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint. Preprint. [pdf](http://lwmath.github.io/files/Int_Regularity.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2403.04235)
-
- **L. Wang**, B. Zhou. Liouville theorems for a class of degenerate or singular Monge-Ampère equations. Preprint. [pdf](http://lwmath.github.io/files/Liou_MA_2d_revised.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2304.12060)
-
- Y. H. Kim, N. Q. Le, **L. Wang**, B. Zhou. Singular Abreu equations and linearized Monge-Ampère equations with drifts. Preprint. [pdf](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2209.11681)
-
- **L. Wang**, B. Zhou. [Interior estimates for Monge-Ampère type fourth order equations](https://doi.org/10.4171/rmi/1361). **Rev. Mat. Iberoam.**, 39 (2023), no. 5, 1895–1923. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2206.02309)
-
-  H. G. Li, J. -N. Wang, **L. Wang**. [Refined stability estimates in electrical impedance tomography with multi-layer structure](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048). **Inverse Probl. Imaging**, 16 (2022), no. 1, 229–249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
-
-&#91;1&#93; K. Song, J. Yang, Y. Sun, Z. Y. Wang, **L. Wang**, R. H. Cong, T. Yang. [Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts](https://www.sciencedirect.com/science/article/pii/S0925838815302085). **Journal of Alloys & Compounds**, 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
+        <p>
+            <strong>L. Wang</strong>
+            , B. Zhou. C<sup>1,α</sup>
+            regularity of variational problems with a convexity constraint. Preprint. <a href="http://lwmath.github.io/files/Int_Regularity.pdf">pdf</a>
+            &nbsp;<a href="https://arxiv.org/abs/2403.04235">arXiv</a>
+        </p>
+        <p>
+            <strong>L. Wang</strong>
+            , B. Zhou. Liouville theorems for a class of degenerate or singular Monge-Ampère equations. Preprint. <a href="http://lwmath.github.io/files/Liou_MA_2d_revised.pdf">pdf</a>
+            &nbsp;<a href="https://arxiv.org/abs/2304.12060">arXiv</a>
+        </p>
+        <p>
+            Y. H. Kim, N. Q. Le, <strong>L. Wang</strong>
+            , B. Zhou. Singular Abreu equations and linearized Monge-Ampère equations with drifts. Preprint. <a href="http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf">pdf</a>
+            &nbsp;<a href="https://arxiv.org/abs/2209.11681">arXiv</a>
+        </p>
+        <p>
+            <strong>L. Wang</strong>
+            , B. Zhou. <a href="https://doi.org/10.4171/rmi/1361">Interior estimates for Monge-Ampère type fourth order equations</a>
+            . <strong>Rev. Mat. Iberoam.</strong>
+            , 39 (2023), no. 5, 1895–1923. <a href="http://lwmath.github.io/files/int-est-4th-eq-revised.pdf">pdf</a>
+            &nbsp;<a href="https://arxiv.org/abs/2206.02309">arXiv</a>
+        </p>
+        <p>
+            H. G. Li, J. -N. Wang, <strong>L. Wang</strong>
+            . <a href="https://www.aimsciences.org/article/doi/10.3934/ipi.2021048">Refined stability estimates in electrical impedance tomography with multi-layer structure</a>
+            . <strong>Inverse Probl. Imaging</strong>
+            , 16 (2022), no. 1, 229–249. <a href="http://lwmath.github.io/files/LWW_inverse.pdf">pdf</a>
+        </p>
+        <p>
+            K. Song, J. Yang, Y. Sun, Z. Y. Wang, <strong>L. Wang</strong>
+            , R. H. Cong, T. Yang. 
+            <a href="https://www.sciencedirect.com/science/article/pii/S0925838815302085">
+                Improving photocatalytic water reduction activity for In<sub>2</sub>
+                TiO<sub>5</sub>
+                by loading metal cocatalysts
+            </a>
+            . <strong>Journal of Alloys &amp;Compounds</strong>
+            , 2015, 646: 277-282. <a href="http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf">pdf</a>
+        </p>
 
 
 # Notes
