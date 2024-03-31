@@ -43,7 +43,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2024).
 + Topics in Geometry homework [1](http://lwmath.github.io/files/homework1.pdf) [2](http://lwmath.github.io/files/homework2.pdf)
 
 
-# [Teaching](https://lwmath.github.io/Teaching/Teaching.html)
+# [Teaching](https://lwmath.github.io/Teaching.html)
 
 <!--
 **Teaching assistant**
