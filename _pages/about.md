@@ -17,6 +17,8 @@ I'm always open to communication and collaboration!
 
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2024).
 # Publications
+1. &nbsp;**L. Wang**. Interior Hölder regularity of the linearized Monge-Ampère equation. Preprint.
+
 1. &nbsp;**L. Wang**, B. Zhou. C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint. Preprint. [pdf](http://lwmath.github.io/files/Int_Regularity.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2403.04235)
 
 1. &nbsp;**L. Wang**, B. Zhou. Liouville theorems for a class of degenerate or singular Monge-Ampère equations. Preprint. [pdf](http://lwmath.github.io/files/Liou_MA_2d_revised.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2304.12060)
@@ -72,4 +74,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2024).
 -->
 
 
-**Last updated: 2024. 4. 3**
+**Last updated: 2024. 4. 26**
