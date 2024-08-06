@@ -15,7 +15,7 @@ You can find me at Room 203, Building 19, Peking University. <br>
 Feel free to reach out to me via email at <lingwang@stu.pku.edu.cn> & <lwmath@foxmail.com> and via [MSE](https://math.stackexchange.com/users/670949/ling). <br>
 I'm always open to communication and collaboration!
 
-This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (May. 2024).
+This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Aug. 2024).
 # Publications
 1. &nbsp;**L. Wang**. Interior Hölder regularity of the linearized Monge-Ampère equation. Preprint. [pdf](http://lwmath.github.io/files/int_Holder.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2405.13297)
 
