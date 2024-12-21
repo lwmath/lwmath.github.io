@@ -19,15 +19,15 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Nov. 2024).
 # Publications
 1. &nbsp;**L. Wang**, B. Zhou. The partial Legendre transform in Monge-Ampère equations. Surveys in Geometric Analysis 2024. [pdf](http://lwmath.github.io/files/survey_PLT.pdf)
 
-1. &nbsp;**L. Wang**. Interior Hölder regularity of the linearized Monge-Ampère equation. [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-024-02885-4), 64 (2025), no. 1, Paper No. 17. [pdf](http://lwmath.github.io/files/int_Holder.pdf) &nbsp; [arXiv](https://arxiv.org/abs/2405.13297)
+1. &nbsp;**L. Wang**. Interior Hölder regularity of the linearized Monge-Ampère equation. [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-024-02885-4), 64 (2025), no. 1, Paper No. 17. [pdf](http://lwmath.github.io/files/int_Holder.pdf)&nbsp;[arXiv](https://arxiv.org/abs/2405.13297)
 
-1. &nbsp;**L. Wang**, B. Zhou. C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint. Preprint. [pdf](http://lwmath.github.io/files/Int_Regularity.pdf)  [arXiv](https://arxiv.org/abs/2403.04235)
+1. &nbsp;**L. Wang**, B. Zhou. C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint. Preprint. [pdf](http://lwmath.github.io/files/Int_Regularity.pdf)&nbsp;[arXiv](https://arxiv.org/abs/2403.04235)
 
 1. &nbsp;**L. Wang**, B. Zhou. Liouville theorems for a class of degenerate or singular Monge-Ampère equations. [J. Geom. Anal.](https://doi.org/10.1007/s12220-024-01795-3), 34 (2024), no. 11, Paper No. 352. [pdf](http://lwmath.github.io/files/Liou_MA_2d_revised.pdf)&nbsp;[arXiv](https://arxiv.org/abs/2304.12060)
 
-1. &nbsp;Y. H. Kim, N. Q. Le, **L. Wang**, B. Zhou. Singular Abreu equations and linearized Monge-Ampère equations with drifts. To appear in [J. Eur. Math. Soc. (JEMS)](https://doi.org/10.4171/jems/1548). [pdf](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2209.11681)
+1. &nbsp;Y. H. Kim, N. Q. Le, **L. Wang**, B. Zhou. Singular Abreu equations and linearized Monge-Ampère equations with drifts. To appear in [J. Eur. Math. Soc. (JEMS)](https://doi.org/10.4171/jems/1548). [pdf](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf)&nbsp;[arXiv](https://arxiv.org/abs/2209.11681)
 
-1. &nbsp;**L. Wang**, B. Zhou. Interior estimates for Monge-Ampère type fourth order equations. [Rev. Mat. Iberoam.](https://doi.org/10.4171/rmi/1361), 39 (2023), no. 5, 1895–1923. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2206.02309)
+1. &nbsp;**L. Wang**, B. Zhou. Interior estimates for Monge-Ampère type fourth order equations. [Rev. Mat. Iberoam.](https://doi.org/10.4171/rmi/1361), 39 (2023), no. 5, 1895–1923. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp;[arXiv](https://arxiv.org/abs/2206.02309)
 
 1. &nbsp;H. G. Li, J. -N. Wang, **L. Wang**. Refined stability estimates in electrical impedance tomography with multi-layer structure. [Inverse Probl. Imaging](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048), 16 (2022), no. 1, 229–249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
 
