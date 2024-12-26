@@ -17,7 +17,7 @@ I'm always open to communication and collaboration!
 
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Nov. 2024).
 # Publications
-1. &nbsp;**L. Wang**, B. Zhou. The partial Legendre transform in Monge-Ampère equations. Surveys in Geometric Analysis 2024. [pdf](http://lwmath.github.io/files/survey_PLT.pdf)
+1. &nbsp;**L. Wang**, B. Zhou. The partial Legendre transform in Monge-Ampère equations. Preprint. [pdf](http://lwmath.github.io/files/survey_PLT.pdf)
 
 1. &nbsp;**L. Wang**. Interior Hölder regularity of the linearized Monge-Ampère equation. [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-024-02885-4), 64 (2025), no. 1, Paper No. 17. [pdf](http://lwmath.github.io/files/int_Holder.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2405.13297)
 
