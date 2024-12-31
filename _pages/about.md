@@ -17,7 +17,7 @@ I'm always open to communication and collaboration!
 
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Jan. 2025).
 # Publications
-+ W. K. Du, **L. Wang**, Y. Yang. Flat level sets of Allen-Cahn equation in half-space. Preprint. [pdf](http://lwmath.github.io/files/AC_bernstein.pdf)
++ W. K. Du, **L. Wang**, Y. Yang. Flat level sets of Allen-Cahn equation in half-space. Preprint. [pdf](http://lwmath.github.io/files/AC_bernstein.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2412.20335)
 
 + **L. Wang**, B. Zhou. The partial Legendre transform in Monge-Ampère equations. Preprint. [pdf](http://lwmath.github.io/files/survey_PLT.pdf)
 
