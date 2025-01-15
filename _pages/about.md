@@ -31,7 +31,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Jan. 2025).
 
 + Interior estimates for Monge-Ampère type fourth order equations (with [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm)). [Rev. Mat. Iberoam.](https://doi.org/10.4171/rmi/1361), 39 (2023), no. 5, 1895–1923. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2206.02309)
 
-+ Refined stability estimates in electrical impedance tomography with multi-layer structure (with [H. G. Li]([https://nqle.pages.iu.edu/](https://math.bnu.edu.cn/jzg/szdw/ln/212934.htm)), and [J. -N. Wang](https://www.math.ntu.edu.tw/~jnwang/)). [Inverse Probl. Imaging](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048), 16 (2022), no. 1, 229–249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
++ Refined stability estimates in electrical impedance tomography with multi-layer structure (with [H. G. Li](https://math.bnu.edu.cn/jzg/szdw/ln/212934.htm), and [J. -N. Wang](https://www.math.ntu.edu.tw/~jnwang/)). [Inverse Probl. Imaging](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048), 16 (2022), no. 1, 229–249. [pdf](http://lwmath.github.io/files/LWW_inverse.pdf)
 
 + Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts (with K. Song, J. Yang, Y. Sun, Z. Y. Wang, R. H. Cong, and [T. Yang](https://hgxy.cqu.edu.cn/szll/zzjs/yt.htm)). [Journal of Alloys & Compounds](https://www.sciencedirect.com/science/article/pii/S0925838815302085), 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
  
