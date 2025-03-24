@@ -40,6 +40,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2025).
 + Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts (with K. Song, J. Yang, Y. Sun, Z. Y. Wang, R. H. Cong, and [T. Yang](https://hgxy.cqu.edu.cn/szll/zzjs/yt.htm)). [Journal of Alloys & Compounds](https://www.sciencedirect.com/science/article/pii/S0925838815302085), 2015, 646: 277-282. [pdf](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)
  
 # Notes
++ A higher-dimensional partial Legendre transform [pdf](http://lwmath.github.io/files/PLT_HD.pdf)
 + The Wiener test and potential estimates for quasilinear elliptic equations [pdf](http://lwmath.github.io/files/Wiener_test.pdf)
 + The Hessian of support functions on round sphere [pdf](http://lwmath.github.io/files/Hess_on_Sphere.pdf)
 + A calculation for the third fundamental form [pdf](http://lwmath.github.io/files/3rd_form.pdf)
@@ -83,4 +84,4 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2025).
 -->
 
 
-**Last updated: 2025. 2. 14**
+**Last updated: 2025. 3. 24**
