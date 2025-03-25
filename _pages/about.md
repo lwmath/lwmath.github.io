@@ -31,7 +31,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2025).
 
 + Liouville theorems for a class of degenerate or singular Monge-Ampère equations (with [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm)). [J. Geom. Anal.](https://doi.org/10.1007/s12220-024-01795-3), 34 (2024), no. 11, Paper No. 352. [pdf](http://lwmath.github.io/files/Liou_MA_2d_revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2304.12060)
 
-+ Singular Abreu equations and linearized Monge-Ampère equations with drifts (with Y. H. Kim, [N. Q. Le](https://nqle.pages.iu.edu/), and [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm)). To appear in [J. Eur. Math. Soc. (JEMS)](https://doi.org/10.4171/jems/1548). [pdf](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2209.11681)
++ Singular Abreu equations and linearized Monge-Ampère equations with drifts (with [Y. H. Kim](https://younghokim.io/), [N. Q. Le](https://nqle.pages.iu.edu/), and [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm)). To appear in [J. Eur. Math. Soc. (JEMS)](https://doi.org/10.4171/jems/1548). [pdf](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2209.11681)
 
 + Interior estimates for Monge-Ampère type fourth order equations (with [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm)). [Rev. Mat. Iberoam.](https://doi.org/10.4171/rmi/1361), 39 (2023), no. 5, 1895–1923. [pdf](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2206.02309)
 
