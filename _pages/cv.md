@@ -11,7 +11,6 @@ redirect_from:
 
 
 **Research Interests**
-
 * Geometric Analysis & Nonlinear PDEs, especially Monge-Ampère type equations
 
 **Positions**
