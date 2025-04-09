@@ -19,7 +19,7 @@ redirect_from:
 **Education**
 + *Ph.D.* in Pure Mathematics, Peking University, Beijing, China, 2020.9-2025.6 (expected)
 + *B.S.* in Mathematics and Applied Mathematics, Beijing Normal University, Beijing, China, 2016.9-2020.6
-+ 
+ 
 **Awards & Honors**
 + China National Scholarship, 2024 <br>
   Presidential Scholarship<br>
