@@ -20,13 +20,4 @@ redirect_from:
   * *Visiting student, Pure Mathematics*, Feb. 2020--Jun. 2020
 * School of Mathematical Science, Beijing Normal University, Beijing, China
   * *B.S. in Mathematics and Applied Mathematics*, Sep. 2016--Jun. 2020
- 
-## Awards & Honors
-* China National Scholarship, 2024 <br>
-  Presidential Scholarship<br>
-  Outstanding Research Award
-* Presidential Scholarship, 2023<br>
-  Merit Student<br>
-* Exceptional Award for Academic Innovation, 2022
-* Outstanding Graduates, 2020<br>
-  The First Prize Scholarship
+
