@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Positions
+### Positions
 * Bocconi Institute for Data Science and Analytics, Bocconi University, Milan, Italy
   * *Postdoctoral Fellow*, Sep. 2025--Aug. 2027 (expected)
 
