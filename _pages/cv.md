@@ -15,11 +15,11 @@ redirect_from:
 
 ## Positions
 * Bocconi Institute for Data Science and Analytics, Bocconi University, Milan, Italy
-  * *Postdoctoral Fellow*, Sep. 2025-Aug. 2027 (expected)
+  * *Postdoctoral Fellow*, Sep. 2025 - Aug. 2027 (expected)
 
 ## Education
-* *Ph.D.* in Pure Mathematics, Peking University, Beijing, China, Sep. 2020-Jun. 2025 (expected)
-* *B.S.* in Mathematics and Applied Mathematics, Beijing Normal University, Beijing, China, Sep. 2016-Jun. 2020
+* *Ph.D.* in Pure Mathematics, Peking University, Beijing, China, Sep. 2020 - Jun. 2025 (expected)
+* *B.S.* in Mathematics and Applied Mathematics, Beijing Normal University, Beijing, China, Sep. 2016 - Jun. 2020
  
 ## Awards & Honors
 * China National Scholarship, 2024 <br>
