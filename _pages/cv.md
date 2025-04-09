@@ -24,11 +24,11 @@ Education
 
 Awards & Honors
 ======
-* China National Scholarship, Ministry of Education of P.R.China, 2024 <br>
-  Presidential Scholarship, Peking University<br>
-  Outstanding Research Award, Peking University
-* Presidential Scholarship, Peking University, 2023<br>
-  Merit Student, Peking University<br>
-* Exceptional Award for Academic Innovation, Peking University, 2022
-* Outstanding Graduates, Beijing Normal University 2020<br>
-  The First Prize Scholarship, Beijing Normal University<br>
+* China National Scholarship, 2024 <br>
+  Presidential Scholarship<br>
+  Outstanding Research Award
+* Presidential Scholarship, 2023<br>
+  Merit Student<br>
+* Exceptional Award for Academic Innovation, 2022
+* Outstanding Graduates, 2020<br>
+  The First Prize Scholarship
