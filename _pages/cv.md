@@ -14,17 +14,17 @@ redirect_from:
 
 * Geometric Analysis & Nonlinear PDEs, especially Monge-Ampère type equations
 
-Positions
-======
+**Positions**
+
 * *Postdoctoral Fellow* , Bocconi University, Milan, Italy, 2025.9-2027.8 (expected)
 
-Education
-======
+**Education**
+
 * *Ph.D.* in Pure Mathematics, Peking University, Beijing, China, 2020.9-2025.6 (expected)
 * *B.S.* in Mathematics and Applied Mathematics, Beijing Normal University, Beijing, China, 2016.9-2020.6
 
-Awards & Honors
-======
+**Awards & Honors**
+
 * China National Scholarship, 2024 <br>
   Presidential Scholarship<br>
   Outstanding Research Award
