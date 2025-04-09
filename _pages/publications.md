@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
+
 + Flat level sets of Allen-Cahn equation in half-space (with [W. K. Du](https://www.math.toronto.edu/wenkuidu/), and [Y. Yang](https://sites.google.com/uci.edu/yangyang)). Preprint. [pdf](http://lwmath.github.io/files/AC_bernstein.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2412.20335)
 
 + The partial Legendre transform in Monge-Ampère equations (with [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm)). Preprint. [pdf](http://lwmath.github.io/files/survey_PLT.pdf)
