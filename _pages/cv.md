@@ -18,8 +18,12 @@ redirect_from:
   * *Postdoctoral Fellow*, Sep. 2025 - Aug. 2027 (expected)
 
 ## Education
-* *Ph.D.* in Pure Mathematics, Peking University, Beijing, China, Sep. 2020 - Jun. 2025 (expected)
-* *B.S.* in Mathematics and Applied Mathematics, Beijing Normal University, Beijing, China, Sep. 2016 - Jun. 2020
+* School of Mathematical Science, Peking University, Beijing, China
+  * *Ph.D. in Pure Mathematics*, Sep. 2020 - Jun. 2025 (expected)
+* Beijing International Center for Mathematical Research, Peking University, Beijing, China
+  * *Visiting student, Pure Mathematics*, Feb. 2020 - Jun. 2020
+* School of Mathematical Science, Beijing Normal University, Beijing, China
+  * *B.S. in Mathematics and Applied Mathematics*, Sep. 2016 - Jun. 2020
  
 ## Awards & Honors
 * China National Scholarship, 2024 <br>
