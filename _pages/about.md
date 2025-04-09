@@ -20,6 +20,11 @@ Feel free to reach out to me via email at <lingwang@stu.pku.edu.cn> & <lwmath@fo
 I'm always open to communication and collaboration!
 
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2025).
+
+
+**Last updated: 2025. 4. 9**
+
+<!--
 # Publications
 + Flat level sets of Allen-Cahn equation in half-space (with [W. K. Du](https://www.math.toronto.edu/wenkuidu/), and [Y. Yang](https://sites.google.com/uci.edu/yangyang)). Preprint. [pdf](http://lwmath.github.io/files/AC_bernstein.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2412.20335)
 
@@ -56,7 +61,7 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2025).
 
 # [Teaching](https://lwmath.github.io/Teaching.html)
 
-<!--
+
 **Teaching assistant**
 +  2023 Spring, Mathematical analysis II
 
@@ -73,15 +78,15 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2025).
 +  2021 Spring, Functional analysis &nbsp; [Midterms](http://lwmath.github.io/files/FA-mid-exam.pdf) &nbsp; [Final](http://lwmath.github.io/files/FA-final-exam.pdf)
 
 +  2020 Fall, Advanced math C &nbsp;  [Final](http://lwmath.github.io/files/Final_exam.pdf) &nbsp;[Math B](http://lwmath.github.io/files/Adv.Math.B_mid.pdf) &nbsp; [Mid21](http://lwmath.github.io/files/mid2021.pdf) &nbsp; [Mid22](http://lwmath.github.io/files/Adv_math_2.pdf) &nbsp;[Final22](http://lwmath.github.io/files/advmathb.pdf) &nbsp;[Final-B-23](http://lwmath.github.io/files/2022-23-B.pdf)  &nbsp;[Final23](http://lwmath.github.io/files/22-23-C.pdf)
--->
+
 
 # [Interesting References](https://lwmath.github.io/References/References.html)
 
-<!--
+
 + Farina, A., Liouville-type theorems for elliptic problems. [link](https://doi.org/10.1016/S1874-5733(07)80005-2)
 
 + N. S., $\begin{aligned}\int\frac{\sin(nx) \sin x}{1-\cos x} \,dx\end{aligned}$ by elementary methods. [link](https://math.stackexchange.com/q/1636667)
 -->
 
 
-**Last updated: 2025. 3. 24**
+
