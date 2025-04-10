@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "**CV**"
+  - title: "<strong>CV</strong>"
     url: /cv/
     
-  - title: "**Publications**"
+  - title: "<strong>Publications</strong>"
     url: /publications/
 
-  - title: "**Notes**"
+  - title: "<strong>Notes</strong>"
     url: /notes/
 
-  - title: "**Talks**"
+  - title: "<strong>Talks</strong>"
     url: /talks/    
 
-  - title: "**Teaching**"
+  - title: "<strong>Teaching</strong>"
     url: /teaching/    
     
-  - title: "**Others**"
+  - title: "<strong>Others</strong>"
     url: /others/
         
  # - title: "Blog Posts"
