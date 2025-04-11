@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* ​**​Flat level sets of Allen-Cahn equation in half-space​**​  
-  ​**​Journal:​** Preprint (2024)  
-  **​With:​**​ [W. K. Du](https://www.math.toronto.edu/wenkuidu/), [Y. Yang](https://sites.google.com/uci.edu/yangyang) | ​🔗 [PDF](http://lwmath.github.io/files/AC_bernstein.pdf) | [arXiv](https://arxiv.org/abs/2412.20335)
+* ​**​Title:** Flat level sets of Allen-Cahn equation in half-space​​  
+  <small>​​**​Journal:​** Preprint (2024)  
+  **​With:​**​ [W. K. Du](https://www.math.toronto.edu/wenkuidu/), [Y. Yang](https://sites.google.com/uci.edu/yangyang) | ​🔗 [PDF](http://lwmath.github.io/files/AC_bernstein.pdf) | [arXiv](https://arxiv.org/abs/2412.20335)</small>​
 
 * ​**​The partial Legendre transform in Monge-Ampère equations​**​  
   <small>​**​Journal:​** Preprint (2024)  ​​​
