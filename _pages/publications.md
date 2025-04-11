@@ -5,6 +5,43 @@ permalink: /publications/
 author_profile: true
 ---
 
+* ​**​Flat level sets of Allen-Cahn equation in half-space​**​  
+  <small>​**​With:​**​ [W. K. Du](https://www.math.toronto.edu/wenkuidu/), [Y. Yang](https://sites.google.com/uci.edu/yangyang) | ​**​Status:​**​ Preprint (2024)  
+  🔗 [PDF](http://lwmath.github.io/files/AC_bernstein.pdf) | [arXiv](https://arxiv.org/abs/2412.20335)</small>
+
+* ​**​The partial Legendre transform in Monge-Ampère equations​**​  
+  <small>​**​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) | ​**​Status:​**​ Preprint (2024)  
+  🔗 [PDF](http://lwmath.github.io/files/survey_PLT.pdf)</small>
+
+* ​**​Interior Hölder regularity of the linearized Monge-Ampère equation​**​  
+  <small>​**​Journal:​**​ *Calc. Var. Partial Differential Equations*, 64 (2025), no. 1, Paper No. 17  
+  ​**​With:​**​ Independent work | 🌐 [doi](https://doi.org/10.1007/s00526-024-02885-4) | 🔗 [PDF](http://lwmath.github.io/files/int_Holder.pdf) | [arXiv](https://arxiv.org/abs/2405.13297)</small>
+
+* ​**​C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint​**​  
+  <small>​**​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) | ​**​Status:​**​ Preprint (2024)  
+  🔗 [PDF](http://lwmath.github.io/files/Int_Regularity.pdf) | [arXiv](https://arxiv.org/abs/2403.04235)</small>
+
+* ​**​Liouville theorems for a class of degenerate or singular Monge-Ampère equations​**​  
+  <small>​**​Journal:​**​ *J. Geom. Anal.*, 34 (2024), no. 11, Paper No. 352  
+  ​**​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) | 🌐 [doi](https://doi.org/10.1007/s12220-024-01795-3) | 🔗 [PDF](http://lwmath.github.io/files/Liou_MA_2d_revised.pdf) | [arXiv](https://arxiv.org/abs/2304.12060)</small>
+
+* ​**​Singular Abreu equations and linearized Monge-Ampère equations with drifts​**​  
+  <small>​**​Journal:​**​ *J. Eur. Math. Soc. (JEMS)* (in press)  
+  ​**​With:​**​ [Y. H. Kim](https://younghokim.io/), [N. Q. Le](https://nqle.pages.iu.edu/), [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) | 🏅 Featured Article | 🔗 [PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) | [arXiv]((https://arxiv.org/abs/2209.11681)</small>
+
+* ​**​Interior estimates for Monge-Ampère type fourth order equations​**​  
+  <small>​**​Journal:​**​ *Rev. Mat. Iberoam.*, 39 (2023), no. 5, 1895–1923  
+  ​**​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) | 🌐 [doi](https://doi.org/10.4171/rmi/1361) | 🔗 [PDF](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf) | [arXiv](https://arxiv.org/abs/2206.02309)</small>
+
+* ​**​Refined stability estimates in EIT with multi-layer structures​**​  
+  <small>​**​Journal:​**​ *Inverse Probl. Imaging* 16(1), 2022  
+  ​**​With:​**​ [H. G. Li](https://math.bnu.edu.cn/jzg/szdw/ln/212934.htm), [J. -N. Wang](https://www.math.ntu.edu.tw/~jnwang/) | 🌐 [doi](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048) | 🔗 [PDF](http://lwmath.github.io/files/LWW_inverse.pdf)</small>
+
+* ​**​Improving photocatalytic water reduction activity for In₂TiO₅​**​  
+  <small>​**​Journal:​**​ *J. Alloys Compd.*, 2015, 646: 277-282  
+  ​**​With:​**​ K. Song, J. Yang, Y. Sun, Z. Y. Wang, R. H. Cong, and [T. Yang](https://hgxy.cqu.edu.cn/szll/zzjs/yt.htm) | 🌐 [doi](https://www.sciencedirect.com/science/article/pii/S0925838815302085) | 🔗 [PDF](http://lwmath.github.io/files/SYSW_Imp_pho_water.pdf)</small>
+
+
 
 + Flat level sets of Allen-Cahn equation in half-space (with [W. K. Du](https://www.math.toronto.edu/wenkuidu/), and [Y. Yang](https://sites.google.com/uci.edu/yangyang)). Preprint. [pdf](http://lwmath.github.io/files/AC_bernstein.pdf)&nbsp; [arXiv](https://arxiv.org/abs/2412.20335)
 
