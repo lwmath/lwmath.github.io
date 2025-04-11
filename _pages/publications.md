@@ -18,8 +18,8 @@ author_profile: true
   ​**​With:​**​ Independent work |🌐[doi](https://doi.org/10.1007/s00526-024-02885-4) |🔗[PDF](http://lwmath.github.io/files/int_Holder.pdf) |​📜[arXiv](https://arxiv.org/abs/2405.13297)
 
 * ​**​Title:​** C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint​  
-  ​**​Journal:​** Preprint (2024)
-  **​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) |🔗[PDF](http://lwmath.github.io/files/Int_Regularity.pdf) |📜[arXiv](https://arxiv.org/abs/2403.04235)
+  ​**​Journal:​** Preprint (2024)  
+  ​**​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) |🔗[PDF](http://lwmath.github.io/files/Int_Regularity.pdf) |📜[arXiv](https://arxiv.org/abs/2403.04235)
 
 * ​**​Title:​** Liouville theorems for a class of degenerate or singular Monge-Ampère equations​  
   ​**​Journal:​**​ *J. Geom. Anal.*, 34 (2024), no. 11, Paper No. 352  
