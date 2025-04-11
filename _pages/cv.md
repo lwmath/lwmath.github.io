@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## 🏛️ Positions
-* ​**​Postdoctoral Fellow​**​
+* ​**​Postdoctoral Fellow​**​   
   <span class="date">⏳ Sep. 2020-Jun. 2025 (expected)</span>   
   📍 Bocconi Institute for Data Science | Bocconi University, Milan, Italy  
 
