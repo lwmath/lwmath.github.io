@@ -11,8 +11,7 @@ redirect_from:
 
 
 ## 🏛️ Positions
-* ​**​Postdoctoral Fellow​**​  
-  <span style="float: right; color: #666; font-size: 0.9em;">
+* ​**​Postdoctoral Fellow​**​<span style="float: right; color: #666; font-size: 0.9em;">
   ⏳ Sep. 2020-Jun. 2025 (expected)
 </span>  
   📍 Bocconi Institute for Data Science | Bocconi University, Milan, Italy  
