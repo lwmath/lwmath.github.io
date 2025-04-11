@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 * ​**​Title:** Flat level sets of Allen-Cahn equation in half-space​​  
-  <small>​​**​Journal:​** Preprint (2024)  
-  **​With:​**​ [W. K. Du](https://www.math.toronto.edu/wenkuidu/), [Y. Yang](https://sites.google.com/uci.edu/yangyang) | ​🔗 [PDF](http://lwmath.github.io/files/AC_bernstein.pdf) | [arXiv](https://arxiv.org/abs/2412.20335)</small>​
+  **​Journal:​** Preprint (2024)  
+  **​With:​**​ [W. K. Du](https://www.math.toronto.edu/wenkuidu/), [Y. Yang](https://sites.google.com/uci.edu/yangyang) | ​🔗 [PDF](http://lwmath.github.io/files/AC_bernstein.pdf) | [arXiv](https://arxiv.org/abs/2412.20335)​
 
 * ​**​The partial Legendre transform in Monge-Ampère equations​**​  
-  <small>​**​Journal:​** Preprint (2024)  ​​​
+  <small>​**​Journal:​** Preprint (2024)  ​​ ​
   **​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) | 🔗 [PDF](http://lwmath.github.io/files/survey_PLT.pdf)</small>
 
 * ​**​Interior Hölder regularity of the linearized Monge-Ampère equation​**​  
@@ -18,7 +18,7 @@ author_profile: true
   ​**​With:​**​ Independent work | 🌐 [doi](https://doi.org/10.1007/s00526-024-02885-4) | 🔗 [PDF](http://lwmath.github.io/files/int_Holder.pdf) | [arXiv](https://arxiv.org/abs/2405.13297)</small>
 
 * ​**​C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint​**​  
-  <small>​**​Journal:​** Preprint (2024)  ​​​
+  <small>​**​Journal:​** Preprint (2024)   ​​​
   **​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) | 🔗 [PDF](http://lwmath.github.io/files/Int_Regularity.pdf) | [arXiv](https://arxiv.org/abs/2403.04235)</small>
 
 * ​**​Liouville theorems for a class of degenerate or singular Monge-Ampère equations​**​  
