@@ -8,7 +8,7 @@ author_profile: true
 
 ## ▊ 2025
   * *Flat level sets of Allen-Cahn equation in half-space*  
-     📅 March 15 | 📍 Workshop on Geometric Analysis and Ricci Flow  
+     📅 March 15 | 📍 Workshop on Geometric Analysis and Ricci Flow 2025  
      🏛️ Institute for Theoretical Sciences of Westlake University, Hangzhou, China  
 
 ## ▊ 2024
