@@ -7,12 +7,12 @@ author_profile: true
 
 
 ## ▊ 2025
-  * *Partial Legendre transform: two-dimensional and higher-dimensional cases*
-    📅 April 17 |📍Geometry & Analysis seminar
+  * *Partial Legendre transform: two-dimensional and higher-dimensional cases*  
+    📅 April 17 |📍Geometry & Analysis seminar  
     🏛️ School of Mathematical Sciences of Shanghai Jiao Tong University, Shanghai, China  
   
-  * *Bernstein-type theorems for geometric PDEs*
-    📅 April 16 |📍Mathematics Colloquium
+  * *Bernstein-type theorems for geometric PDEs*  
+    📅 April 16 |📍Mathematics Colloquium  
     🏛️ School of Mathematical Sciences of Fudan University, Shanghai, China  
   
   * *Flat level sets of Allen-Cahn equation in half-space*  
