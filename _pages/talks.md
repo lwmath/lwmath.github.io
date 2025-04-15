@@ -10,23 +10,19 @@ author_profile: true
   * *Partial Legendre transform: two-dimensional and higher-dimensional cases*  
     📅 April 17 |📍Geometry & Analysis seminar  
     🏛️ School of Mathematical Sciences of Shanghai Jiao Tong University, Shanghai, China  
-  
   * *Bernstein-type theorems for geometric PDEs*  
     📅 April 16 |📍Mathematics Colloquium  
     🏛️ School of Mathematical Sciences of Fudan University, Shanghai, China  
-  
   * *Flat level sets of Allen-Cahn equation in half-space*  
      📅 March 15 |📍Workshop on Geometric Analysis and Ricci Flow 2025  
      🏛️ Institute for Theoretical Sciences of Westlake University, Hangzhou, China  
-
 ## ▊ 2024
   * *Singular Abreu equations and linearized Monge-Ampère equations with drifts*    
      📅 July 21-27 |📍Workshop on Geometric Analysis 2024   
      🏛️ School of Mathematical Sciences of Inner Mongolia University, Hohhot, China   
   * *Interior estimates for the Monge-Ampère type fourth order equations*   
      📅 March 24 |📍Ph.D. Mathematics Forum  
-     🏛️ School of Mathematics and Statistics of Wuhan University, Wuhan, China   
-     
+     🏛️ School of Mathematics and Statistics of Wuhan University, Wuhan, China        
 ## ▊ 2022
   * *A revisit to affine Bernstein problem*   
      📅 March 30 |📍Geometric PDE seminar  
