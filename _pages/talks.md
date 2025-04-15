@@ -22,7 +22,7 @@ author_profile: true
      🏛️ School of Mathematical Sciences of Inner Mongolia University, Hohhot, China   
   * *Interior estimates for the Monge-Ampère type fourth order equations*   
      📅 March 24 |📍Ph.D. Mathematics Forum  
-     🏛️ School of Mathematics and Statistics of Wuhan University, Wuhan, China        
+     🏛️ School of Mathematics and Statistics of Wuhan University, Wuhan, China
 ## ▊ 2022
   * *A revisit to affine Bernstein problem*   
      📅 March 30 |📍Geometric PDE seminar  
