@@ -19,10 +19,10 @@ You can find me at Room 203, Building 19, Peking University. <br>
 Feel free to reach out to me via email at <lingwang@stu.pku.edu.cn> & <lwmath@foxmail.com>. <br>
 I'm always open to communication and collaboration!
 
-This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Mar. 2025).
+This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Apr. 2025).
 
 
-**Last updated: 2025. 4. 9**
+**Last updated: 2025. 4. 15**
 
 <!--
 # Publications
