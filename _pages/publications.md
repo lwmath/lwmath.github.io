@@ -8,7 +8,6 @@ author_profile: true
 * ​**​Title:** Flat level sets of Allen-Cahn equation in half-space​​  
   **​Journal:​** Preprint (2024)  
   **​With:​**​ [W. K. Du](https://www.math.toronto.edu/wenkuidu/), [Y. Yang](https://sites.google.com/uci.edu/yangyang) |​📜[PDF](http://lwmath.github.io/files/AC_bernstein.pdf) |🔗[arXiv](https://arxiv.org/abs/2412.20335)​
-
 * ​**​Title:​** The partial Legendre transform in Monge-Ampère equations​  
   ​**​Journal:​** Preprint (2024)  
   **​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) |📜[PDF](http://lwmath.github.io/files/survey_PLT.pdf)
