@@ -15,7 +15,8 @@ author_profile: true
     🏛️ School of Mathematical Sciences of Fudan University, Shanghai, China  
   * *Flat level sets of Allen-Cahn equation in half-space*  
      📅 March 15 |📍Workshop on Geometric Analysis and Ricci Flow 2025  
-     🏛️ Institute for Theoretical Sciences of Westlake University, Hangzhou, China  
+     🏛️ Institute for Theoretical Sciences of Westlake University, Hangzhou, China
+
 ## ▊ 2024
   * *Singular Abreu equations and linearized Monge-Ampère equations with drifts*    
      📅 July 21-27 |📍Workshop on Geometric Analysis 2024   
@@ -23,6 +24,7 @@ author_profile: true
   * *Interior estimates for the Monge-Ampère type fourth order equations*   
      📅 March 24 |📍Ph.D. Mathematics Forum  
      🏛️ School of Mathematics and Statistics of Wuhan University, Wuhan, China
+
 ## ▊ 2022
   * *A revisit to affine Bernstein problem*   
      📅 March 30 |📍Geometric PDE seminar  
