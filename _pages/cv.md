@@ -12,7 +12,8 @@ redirect_from:
 ## 🏛️ Positions
 * ​**​Postdoctoral Fellow​**​   
   <span class="date">⏳ Sep. 2025-Aug. 2027 (expected)</span>   
-  📍 Bocconi Institute for Data Science and Analytics | Bocconi University, Milan, Italy  
+  📍 Bocconi Institute for Data Science and Analytics | Bocconi University, Milan, Italy
+
 ## 🎓 Education
 * ​**​Ph.D. in Pure Mathematics​**​  
   <span class="date">⏳ Sep. 2020-Jun. 2025 (expected)</span>  
