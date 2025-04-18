@@ -32,7 +32,7 @@ author_profile: true
   ​**​Journal:​**​ *Rev. Mat. Iberoam.*, 39 (2023), no. 5, 1895–1923  
   ​**​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) |🌐[doi](https://doi.org/10.4171/rmi/1361) |📜[PDF](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2206.02309)
 
-* ​**Title:​** ​Refined stability estimates in EIT with multi-layer structures​  
+* ​**Title:​** ​Refined stability estimates in electrical impedance tomography with multi-layer structure  
   **​Journal:​**​ *Inverse Probl. Imaging*, 16 (2022), no. 1, 229–249  
   ​**​With:​**​ [H. G. Li](https://math.bnu.edu.cn/jzg/szdw/ln/212934.htm), [J. -N. Wang](https://www.math.ntu.edu.tw/~jnwang/) |🌐[doi](https://www.aimsciences.org/article/doi/10.3934/ipi.2021048) |📜[PDF](http://lwmath.github.io/files/LWW_inverse.pdf)
 
