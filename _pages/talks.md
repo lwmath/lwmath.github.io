@@ -8,7 +8,7 @@ author_profile: true
 
 ## ▊ 2025
   * *A revisit to the De Giorgi conjecture: Savin's proof and applications*  
-    📅 April 21 |📍Geometry \& Topology seminar  
+    📅 April 21 |📍Geometry & Topology seminar  
     🏛️ Institute of Mathematical Sciences of ShanghaiTech University, Shanghai, China  
   * *Partial Legendre transform: two-dimensional and higher-dimensional cases*  
     📅 April 17 |📍Geometry & Analysis seminar  
