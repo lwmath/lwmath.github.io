@@ -22,10 +22,10 @@ author_profile: true
 
 ## ▊ 2024
   * *Singular Abreu equations and linearized Monge-Ampère equations with drifts*    
-     📅 July 21-27 |📍Workshop on Geometric Analysis 2024   
+     📅 July 21-27 |📍Workshop on Geometric Analysis 2024 (30 minutes)   
      🏛️ School of Mathematical Sciences of Inner Mongolia University, Hohhot, China   
   * *Interior estimates for the Monge-Ampère type fourth order equations*   
-     📅 March 24 |📍Ph.D. Mathematics Forum  
+     📅 March 24 |📍Ph.D. Mathematics Forum (13 minutes)  
      🏛️ School of Mathematics and Statistics of Wuhan University, Wuhan, China
 
 ## ▊ 2022
