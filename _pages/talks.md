@@ -14,6 +14,9 @@ author_profile: true
      🏛️ School of Mathematical Sciences of Inner Mongolia University, Hohhot, China   
 
 # Seminar and Colloquium Talks
+  * *Interior estimates for the Monge-Ampère type fourth-order equations*  
+    📅 May 6, 2025 |📍Mathematics Colloquium  
+    🏛️ School of Mathematical Sciences of Nankai University, Tianjin, China  
   * *A revisit to the De Giorgi conjecture: Savin's proof and applications*  
     📅 April 21, 2025 |📍Geometry & Topology seminar  
     🏛️ Institute of Mathematical Sciences of ShanghaiTech University, Shanghai, China  
