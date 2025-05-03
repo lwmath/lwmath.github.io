@@ -25,7 +25,7 @@ author_profile: true
   ​**​With:​**​ [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) |🌐[doi](https://doi.org/10.1007/s12220-024-01795-3) |📜[PDF](http://lwmath.github.io/files/Liou_MA_2d_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2304.12060)
 
 * Singular Abreu equations and linearized Monge-Ampère equations with drifts​​  
-  **​Journal:​**​ *J. Eur. Math. Soc. (JEMS)* (in press)  
+  **​Journal:​**​ To appear in *J. Eur. Math. Soc. (JEMS)*  
   ​**​With:​**​ [Y. H. Kim](https://younghokim.io/), [N. Q. Le](https://nqle.pages.iu.edu/), [B. Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm) |🌐[doi](https://doi.org/10.4171/jems/1548) |📜[PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2209.11681)
 
 * Interior estimates for Monge-Ampère type fourth order equations​  
