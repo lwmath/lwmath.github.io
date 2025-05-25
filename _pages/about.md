@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm currently a PhD candidate at the School of Mathematical Sciences, Peking University, under the supervision of Prof. [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm).
+I recently completed my Ph.D. at the School of Mathematical Sciences, Peking University, under the supervision of Prof. [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm). My doctoral dissertation, titled *Monge-Ampère type fourth-order equations and applications*, was successfully defended on May 16, 2025.
 
 In September 2025, I will begin my postdoctoral position at Bocconi University in Italy, working under the supervision of Prof. [Antonio De Rosa](https://dec.unibocconi.eu/people/antonio-de-rosa).
 
@@ -19,10 +19,10 @@ You can find me at Room 203, Building 19, Peking University. <br>
 Feel free to reach out to me via email at <lingwang@stu.pku.edu.cn> & <lwmath@foxmail.com>. <br>
 I'm always open to communication and collaboration!
 
-This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Apr. 2025).
+This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (May 2025).
 
 
-**Last updated: 2025. 4. 15**
+**Last updated: 2025. 5. 25**
 
 <!--
 # Publications
