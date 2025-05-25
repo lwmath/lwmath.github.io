@@ -16,7 +16,7 @@ redirect_from:
 
 ## 🎓 Education
 * ​**​Ph.D. in Pure Mathematics​**​  
-  <span class="date">⏳ Sep. 2020-Jun. 2025 (expected)</span>  
+  <span class="date">⏳ Sep. 2020-Jun. 2025</span>  
   📍 School of Mathematical Sciences | Peking University, Beijing, China  
 * ​**​Visiting Student​**​  
   <span class="date">📅 Feb. 2020-Jun. 2020</span>  
