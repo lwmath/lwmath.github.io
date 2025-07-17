@@ -9,7 +9,7 @@ author_profile: true
   📖 Preprint (2024)  
   with [W. K. Du](https://www.math.toronto.edu/wenkuidu/), [Y. Yang](https://sites.google.com/uci.edu/yangyang) |​📜[PDF](http://lwmath.github.io/files/AC_bernstein.pdf) |🔗[arXiv](https://arxiv.org/abs/2412.20335)​
 * **The partial Legendre transform in Monge-Ampère equations**​  
-  📖 Preprint (2024)  
+  📖 *Surveys in Geometric Analysis 2024*  
   with [B. Zhou](https://bzhou1982.github.io/) |📜[PDF](http://lwmath.github.io/files/survey_PLT.pdf)
 
 * **​Interior Hölder regularity of the linearized Monge-Ampère equation**​  
