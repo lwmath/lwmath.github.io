@@ -17,6 +17,9 @@ author_profile: true
      🏛️ <span style="color: #5E6167;">School of Mathematical Sciences of Inner Mongolia University, Hohhot, China</span>   
 
 # Seminar and Colloquium Talks
+  * ***Bernstein-type theorems for geometric PDEs***  
+    📅 <span style="color: #5E8AFA;">July 29, 2025</span> |📍<span style="color: #789DFF;">Geometric Analysis seminar</span>  
+    🏛️ <span style="color: #5E6167;">Institute for Theoretical Sciences of Westlake University, Hangzhou, China</span>  
   * ***Interior estimates for the Monge-Ampère type fourth-order equations***  
     📅 <span style="color: #5E8AFA;">May 6, 2025</span> |📍<span style="color: #789DFF;">Mathematics Colloquium</span>  
     🏛️ <span style="color: #5E6167;">School of Mathematical Sciences of Nankai University, Tianjin, China</span>  
