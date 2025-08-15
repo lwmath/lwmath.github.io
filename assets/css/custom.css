@@ -68,3 +68,30 @@
   .lw-pubs-panels ol,
   .lw-pubs-panels ul { margin-left: 1.0em; }
 }
+
+/* Hide both panels by default */
+.lw-pubs-panel {
+  display: none;
+}
+
+/* Show time panel when time radio is checked */
+#lw-bytime:checked ~ .lw-pubs-root .lw-time-panel {
+  display: block;
+}
+
+/* Show topic panel when topic radio is checked */
+#lw-bytopic:checked ~ .lw-pubs-root .lw-topic-panel {
+  display: block;
+}
+
+/* Optional: style for the tab labels */
+.lw-pubs-toggle label {
+  cursor: pointer;
+  padding: 0.5em 1em;
+  border: 1px solid #ccc;
+  margin-right: -1px;
+}
+
+.lw-pubs-toggle label:hover {
+  background-color: #f5f5f5;
+}
