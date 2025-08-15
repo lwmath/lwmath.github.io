@@ -5,3 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
+  HTML snippet: keep inputs as siblings of .lw-pubs-wrap.
+  The actual lists are included from _includes/pubs-by-time.html and _includes/pubs-by-topic.html.
+-->
+
+<input class="lw-pubs-radio" type="radio" id="lw-bytime" name="lw-view" checked>
+<input class="lw-pubs-radio" type="radio" id="lw-bytopic" name="lw-view">
+
+<div class="lw-pubs-root">
+  <div class="lw-pubs-wrap">
+    <div class="lw-pubs-toggle" role="tablist" aria-label="Show publications">
+      <label for="lw-bytime" role="tab" aria-controls="lw-time-panel">Sort by time</label>
+      <label for="lw-bytopic" role="tab" aria-controls="lw-topic-panel">Sort by research topic</label>
+    </div>
+
+    <div class="lw-pubs-panels">
+      <div id="lw-time-panel" class="lw-pubs-panel lw-time-panel" role="region" aria-labelledby="lw-bytime">
+        {% include pubs-by-time.html %}
+      </div>
+
+      <div id="lw-topic-panel" class="lw-pubs-panel lw-topic-panel" role="region" aria-labelledby="lw-bytopic">
+        {% include pubs-by-topic.html %}
+      </div>
+    </div>
+  </div>
+</div>
