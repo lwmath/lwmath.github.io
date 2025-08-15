@@ -1,0 +1,51 @@
+/* container for the component inside your page content */
+.lw-pubs-root { margin-top: 8px; }
+
+/* toggle row */
+.lw-pubs-toggle { display: flex; gap: 8px; margin-bottom: 12px; }
+
+/* hide real radio controls visually but keep them in DOM */
+.lw-pubs-radio { position: absolute; left: -9999px; }
+
+/* style labels as buttons */
+.lw-pubs-toggle label {
+  padding: 6px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid rgba(0,0,0,0.12);
+  background: transparent;
+  font-size: 0.95rem;
+  line-height:1.2;
+  user-select: none;
+  transition: background .12s, box-shadow .12s, transform .08s;
+}
+
+/* small pressed effect on click */
+.lw-pubs-toggle label:active { transform: translateY(1px); }
+
+/* highlight active label when corresponding input is checked */
+/* note: inputs must be siblings of .lw-pubs-wrap for these selectors to work */
+#lw-bytime:checked ~ .lw-pubs-wrap .lw-pubs-toggle label[for="lw-bytime"],
+#lw-bytopic:checked ~ .lw-pubs-wrap .lw-pubs-toggle label[for="lw-bytopic"] {
+  background: #eef7ff;
+  font-weight: 600;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+/* panels hidden by default */
+.lw-pubs-panel { display: none; }
+
+/* show correct panel depending on radio checked */
+#lw-bytime:checked ~ .lw-pubs-wrap .lw-pubs-panels .lw-time-panel { display: block; }
+#lw-bytopic:checked ~ .lw-pubs-wrap .lw-pubs-panels .lw-topic-panel { display: block; }
+
+/* typography and spacing tuned to common Jekyll themes */
+.lw-pubs-panels h3 { margin: 12px 0 6px; font-size: 1rem; }
+.lw-pubs-panels ul { margin: 0 0 14px 1.05em; padding: 0; }
+.lw-pubs-panels li { margin-bottom: 8px; font-size: 0.98rem; }
+
+/* make it responsive: small screens stack labels */
+@media (max-width: 520px) {
+  .lw-pubs-toggle { gap: 6px; flex-wrap: wrap; }
+  .lw-pubs-toggle label { padding: 8px 10px; font-size: 0.92rem; }
+}
