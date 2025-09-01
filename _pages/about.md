@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my Ph.D. at the School of Mathematical Sciences, Peking University, under the supervision of Prof. [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm). My doctoral dissertation, titled *Monge-Ampère type fourth-order equations and applications*, was successfully defended on May 16, 2025.
+Currently, I am a postdoctoral researcher at Bocconi University in Milan, Italy, working under the supervision of Prof. [Antonio De Rosa](https://dec.unibocconi.eu/people/antonio-de-rosa).
 
-In September 2025, I will begin my postdoctoral position at Bocconi University in Italy, working under the supervision of Prof. [Antonio De Rosa](https://dec.unibocconi.eu/people/antonio-de-rosa).
+I received my Ph.D. in Mathematics from the School of Mathematical Sciences, Peking University, under the supervision of Prof. [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm). My doctoral dissertation, titled *Monge-Ampère type fourth-order equations and applications*, was successfully defended on May 16, 2025.
 
-My research interests lie primarily in **geometric analysis** and **nonlinear PDEs**, with a particular focus on **Monge-Ampère** type equations.
+My research interests lie primarily in **geometric analysis** and **nonlinear PDEs**.
 
-You can find me at Room 203, Building 19, Peking University. <br> 
-Feel free to reach out to me via email at <lingwang@stu.pku.edu.cn> & <lwmath@foxmail.com>. <br>
+You can find me at **Room 4-A2-FM02, via Roentgen 1 building**.<br> 
+Feel free to reach out to me via email at <ling.wang@unibocconi.it> & <lwmath@foxmail.com>. <br>
 I'm always open to communication and collaboration!
 
-This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (May 2025).
+This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (Sep. 2025).
 
 
-**Last updated: 2025. 5. 25**
+**Last updated: 2025. 9. 1**
 
 <!--
 # Publications
