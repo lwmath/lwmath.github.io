@@ -17,6 +17,9 @@ author_profile: true
      🏛️ <span style="color: #5E6167;">School of Mathematical Sciences of Inner Mongolia University, Hohhot, China</span>   
 
 # Seminar and Colloquium Talks
+  * ***About me and my research***  
+    📅 <span style="color: #5E8AFA;">October 29, 2025</span> |📍<span style="color: #789DFF;">PostDoctoral Research Forum</span>  
+    🏛️ <span style="color: #5E6167;">Department of Decision Sciences & Department of Computing Sciences of Bocconi University, Milan, Italy</span>  
   * ***Bernstein-type theorems for geometric PDEs***  
     📅 <span style="color: #5E8AFA;">July 29, 2025</span> |📍<span style="color: #789DFF;">Geometric Analysis seminar</span>  
     🏛️ <span style="color: #5E6167;">Institute for Theoretical Sciences of Westlake University, Hangzhou, China</span>  
