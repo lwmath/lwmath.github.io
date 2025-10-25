@@ -23,10 +23,10 @@ repository               : "lwmath/lwmath.github.io"
 author:
   # Biographic information
   avatar           : "image.jpg"
-  name             : "Ling Wang"
+  name             : "Ling Wang (汪铃)"
   pronouns         : # example: "she/her"  
-  bio              : "A math PhD at Peking University"
-  location         : "Peking University, Beijing" #"School of Mathematical Sciences, Peking University, No.5 Yiheyuan Road Haidian 
+  bio              : "Postdoctoral researcher at Bocconi University"
+  location         : "Bocconi University, Milan"
   employer         : 
   uri              : # URL
   email            : "lwmath@foxmail.com" 
