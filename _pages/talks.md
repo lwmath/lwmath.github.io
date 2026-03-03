@@ -17,6 +17,9 @@ author_profile: true
      🏛️ <span style="color: #5E6167;">School of Mathematical Sciences of Inner Mongolia University, Hohhot, China</span>   
 
 # Seminar and Colloquium Talks
+  * ***A revisit to the De Giorgi conjecture: Savin's proof and applications***  
+    📅 <span style="color: #5E8AFA;">March 11, 2026</span> |📍<span style="color: #789DFF;">Geometric Analysis Seminar  (online)</span>  
+    🏛️ <span style="color: #5E6167;">Beijing International Center for Mathematical Research of Peking University, Beijing, China</span>  
   * ***About me and my research***  
     📅 <span style="color: #5E8AFA;">October 29, 2025</span> |📍<span style="color: #789DFF;">PostDoctoral Research Forum</span>  
     🏛️ <span style="color: #5E6167;">Department of Decision Sciences & Department of Computing Sciences of Bocconi University, Milan, Italy</span>  
