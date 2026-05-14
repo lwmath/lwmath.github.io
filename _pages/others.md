@@ -7,6 +7,7 @@ author_profile: true
 
 
 # Interesting References
+* Equivalence of intrinsic and extrinsic area bounds for minimal surfaces [link](https://arxiv.org/abs/2605.06468v1)
 * Paul Minter's *Regularity Techniques in Geometric Measure Theory* [pdf](https://minterscompactness.wordpress.com/wp-content/uploads/2024/12/reg-in-gmt-notes.pdf)
 * Leon Simon's *Introduction to Geometric Measure Theory* [pdf](https://lwmath.github.io/files/Simon_GMT.pdf)
 * The work of Luis Caffarelli on fully nonlinear elliptic PDEs [link](https://doi.org/10.1090/bull/1862)
