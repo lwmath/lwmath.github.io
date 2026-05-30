@@ -5,7 +5,6 @@ permalink: /notes/
 author_profile: true
 ---
 
-+ A two-dimensional autonomous anisotropic stable Bernstein theorem under an explicit ellipticity ratio [pdf](http://lwmath.github.io/files/2D-stable-Bernstein.pdf)
 + A two-dimensional proof of Harnack’s inequality *by ChatGPT* [pdf](http://lwmath.github.io/files/Harnack_GPT.pdf)
 + Survey of the Abreu equation and Guillemin boundary problems [pdf](http://lwmath.github.io/files/Guillemin_survey.pdf)
 + A higher-dimensional partial Legendre transform [pdf](http://lwmath.github.io/files/PLT_HD.pdf)
