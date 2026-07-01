@@ -17,10 +17,10 @@ You can find me at **Room 4-A2-FM02, via Roentgen 1 building**.<br>
 Feel free to reach out to me via email at <ling.wang@unibocconi.it> & <lwmath@foxmail.com>. <br>
 I'm always open to communication and collaboration!
 
-This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (June 2026).
+This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (July 2026).
 
 
-**Last updated: 2026. 6. 29**
+**Last updated: 2026. 7. 1**
 
 <!--
 # Publications
