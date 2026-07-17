@@ -21,6 +21,10 @@ author_profile: true
 
 # Seminar and Colloquium Talks
 
+* ***Min-max construction of anisotropic minimal surfaces with genus bound***  
+     📅 July 22, 2026 |📍 Analysis & PDE seminar  
+     🏛️ Institute for Theoretical Sciences of Westlake University, Hangzhou, China
+  
 * ***A revisit to the De Giorgi conjecture: Savin's proof and applications***  
      📅 March 11, 2026 |📍Geometric Analysis Seminar  (online)  
      🏛️ Beijing International Center for Mathematical Research of Peking University, Beijing, China  
