@@ -20,6 +20,9 @@ author_profile: true
      🏛️ School of Mathematical Sciences of Inner Mongolia University, Hohhot, China   
 
 # Seminar and Colloquium Talks
+* ***A Simon-Smith min-max theory for anisotropic minimal surfaces with genus bound***  
+     📅 August 11, 2026 |📍Geometric Analysis Seminar  
+     🏛️ School of Mathematical Sciences of Peking University, Beijing, China  
 
 * ***Min-max construction of anisotropic minimal surfaces with genus bound***  
      📅 July 22, 2026 |📍Analysis & PDE seminar  
