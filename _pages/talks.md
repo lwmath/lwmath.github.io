@@ -20,6 +20,10 @@ author_profile: true
      🏛️ School of Mathematical Sciences of Inner Mongolia University, Hohhot, China   
 
 # Seminar and Colloquium Talks
+* ***An anisotropic stable Bernstein theorem and application***  
+     📅 August 12, 2026 |📍Seminar  
+     🏛️ Beijing Institute Of Technology School Of Mathematics And Statics, Beijing, China  
+
 * ***A Simon-Smith min-max theory for anisotropic minimal surfaces with genus bound***  
      📅 August 11, 2026 |📍Geometric Analysis Seminar  
      🏛️ School of Mathematical Sciences of Peking University, Beijing, China  
