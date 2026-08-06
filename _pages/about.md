@@ -19,8 +19,30 @@ I'm always open to communication and collaboration!
 
 This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (July 2026).
 
+# Selected Publications
 
-**Last updated: 2026. 7. 1**
++ **Min-max construction of anisotropic minimal surfaces with genus bound** (with [A. De Rosa](https://sites.google.com/view/antonioderosa/home), [A. Halavati](https://ariahala.github.io/)). Preprint (2026). |
+  [PDF](http://lwmath.github.io/files/anisotropic_Meeks_Simon_Yau.pdf) |
+  [arXiv](https://arxiv.org/abs/2606.30098)
+
++ **Flat level sets of Allen–Cahn equation in half-space** (with [W. K. Du](https://sites.google.com/view/wenkuidu/homepage), [Y. Yang](https://sites.google.com/uci.edu/yangyang)). Preprint (2024). |
+  [PDF](http://lwmath.github.io/files/AC_bernstein.pdf) |
+  [arXiv](https://arxiv.org/abs/2412.20335)
+
++ **Interior Hölder regularity of the linearized Monge–Ampère equation**. *Calc. Var. Partial Differential Equations*, 64 (2025), no. 1, Paper No. 17. |
+  [doi](https://doi.org/10.1007/s00526-024-02885-4) |
+  [PDF](http://lwmath.github.io/files/int_Holder.pdf) |
+  [arXiv](https://arxiv.org/abs/2405.13297)
+
++ **Singular Abreu equations and linearized Monge–Ampère equations with drifts** (with [Y. H. Kim](https://younghokim.io/), [N. Q. Le](https://nqle.pages.iu.edu/), [B. Zhou](https://bzhou1982.github.io/)). *J. Eur. Math. Soc. (JEMS)*, 28 (2026), no. 9, 4105–4148. |
+  [doi](https://doi.org/10.4171/jems/1548) |
+  [PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) |
+  [arXiv](https://arxiv.org/abs/2209.11681)
+
+[Full publication list](/publications/)
+
+
+**Last updated: 2026. 8. 6**
 
 <!--
 # Publications
