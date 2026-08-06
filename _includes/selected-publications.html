@@ -1,0 +1,11 @@
+<ul>
+  {% for pub in site.data.publications.items %}
+    {% if pub.selected == true %}
+      {% include publication-item.html pub=pub %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<p>
+  <a href="{{ '/publications/' | relative_url }}">Full publication list</a>
+</p>
