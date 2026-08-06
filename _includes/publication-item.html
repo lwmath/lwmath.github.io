@@ -1,0 +1,13 @@
+<li>
+  <strong>{{ include.pub.title }}</strong>{% if include.pub.authors %} (with {% for author in include.pub.authors %}{% if author.url %}<a href="{{ author.url }}" target="_blank" rel="noopener">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}{% if forloop.rindex == 2 %}{% if include.pub.authors.size == 2 %} and {% else %}, and {% endif %}{% else %}, {% endif %}{% endunless %}{% endfor %}){% endif %}.
+  {{ include.pub.citation }}
+  {% if include.pub.doi %}|
+    <a href="{{ include.pub.doi }}" target="_blank" rel="noopener">doi</a>
+  {% endif %}
+  {% if include.pub.pdf %}|
+    <a href="{{ include.pub.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>
+  {% endif %}
+  {% if include.pub.arxiv %}|
+    <a href="{{ include.pub.arxiv }}" target="_blank" rel="noopener">arXiv</a>
+  {% endif %}
+</li>
