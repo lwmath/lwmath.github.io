@@ -25,7 +25,7 @@ items:
   - title: "Liouville-type theorems for coupled-drift Monge–Ampère equations"
     year: 2026
     topic: monge-ampere
-    selected: true
+    selected: false
     citation: "Preprint (2026)."
     pdf: "/files/periodic_MA.pdf"
     arxiv: "https://arxiv.org/abs/2608.04478"
