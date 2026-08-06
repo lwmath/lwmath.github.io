@@ -21,8 +21,6 @@ This is my [CV](http://lwmath.github.io/files/CV_lw.pdf) (July 2026).
 
 # Selected Publications
 
-# Selected Publications
-
 {% include selected-publications.html %}
 
 
