@@ -1,0 +1,162 @@
+topics:
+  - key: minimal-surfaces
+    title: "Minimal Surfaces"
+
+  - key: monge-ampere
+    title: "Monge–Ampère Equations"
+
+  - key: fourth-order
+    title: "Monge–Ampère type Fourth-order Equations"
+
+  - key: variational-problems
+    title: "Variational Problems"
+
+  - key: allen-cahn
+    title: "Allen–Cahn Equations"
+
+  - key: inverse-problems
+    title: "Inverse Problems"
+
+  - key: others
+    title: "Others"
+
+
+items:
+  - title: "Liouville-type theorems for coupled-drift Monge–Ampère equations"
+    year: 2026
+    topic: monge-ampere
+    selected: true
+    citation: "Preprint (2026)."
+    pdf: "/files/periodic_MA.pdf"
+    arxiv: "https://arxiv.org/abs/2608.04478"
+
+  - title: "Min-max construction of anisotropic minimal surfaces with genus bound"
+    year: 2026
+    topic: minimal-surfaces
+    selected: true
+    authors:
+      - name: "A. De Rosa"
+        url: "https://sites.google.com/view/antonioderosa/home"
+      - name: "A. Halavati"
+        url: "https://ariahala.github.io/"
+    citation: "Preprint (2026)."
+    pdf: "/files/anisotropic_Meeks_Simon_Yau.pdf"
+    arxiv: "https://arxiv.org/abs/2606.30098"
+
+  - title: "Local potential and Hölder estimates for the linearized Monge–Ampère equation"
+    year: 2025
+    topic: monge-ampere
+    authors:
+      - name: "G. Q. Cui"
+        url: "https://gqcuimath.github.io/"
+      - name: "B. Zhou"
+        url: "https://bzhou1982.github.io/"
+    citation: "Preprint (2025)."
+    pdf: "/files/Potential-Holder.pdf"
+    arxiv: "https://arxiv.org/abs/2511.03426"
+
+  - title: "Flat level sets of Allen–Cahn equation in half-space"
+    year: 2024
+    topic: allen-cahn
+    selected: true
+    authors:
+      - name: "W. K. Du"
+        url: "https://sites.google.com/view/wenkuidu/homepage"
+      - name: "Y. Yang"
+        url: "https://sites.google.com/uci.edu/yangyang"
+    citation: "Preprint (2024)."
+    pdf: "/files/AC_bernstein.pdf"
+    arxiv: "https://arxiv.org/abs/2412.20335"
+
+  - title: "The partial Legendre transform in Monge–Ampère equations"
+    year: 2024
+    topic: monge-ampere
+    authors:
+      - name: "B. Zhou"
+        url: "https://bzhou1982.github.io/"
+    citation: "<em>Surveys in Geometric Analysis</em> (2024)."
+    pdf: "/files/survey_PLT.pdf"
+
+  - title: "Interior Hölder regularity of the linearized Monge–Ampère equation"
+    year: 2025
+    topic: monge-ampere
+    selected: true
+    citation: "<em>Calc. Var. Partial Differential Equations</em>, 64 (2025), no. 1, Paper No. 17."
+    doi: "https://doi.org/10.1007/s00526-024-02885-4"
+    pdf: "/files/int_Holder.pdf"
+    arxiv: "https://arxiv.org/abs/2405.13297"
+
+  - title: "C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint"
+    year: 2024
+    topic: variational-problems
+    authors:
+      - name: "B. Zhou"
+        url: "https://bzhou1982.github.io/"
+    citation: "Preprint (2024)."
+    pdf: "/files/Int_Regularity.pdf"
+    arxiv: "https://arxiv.org/abs/2403.04235"
+
+  - title: "Liouville theorems for a class of degenerate or singular Monge–Ampère equations"
+    year: 2024
+    topic: monge-ampere
+    authors:
+      - name: "B. Zhou"
+        url: "https://bzhou1982.github.io/"
+    citation: "<em>J. Geom. Anal.</em>, 34 (2024), no. 11, Paper No. 352."
+    doi: "https://doi.org/10.1007/s12220-024-01795-3"
+    pdf: "/files/Liou_MA_2d_revised.pdf"
+    arxiv: "https://arxiv.org/abs/2304.12060"
+
+  - title: "Singular Abreu equations and linearized Monge–Ampère equations with drifts"
+    year: 2026
+    topic: fourth-order
+    selected: true
+    authors:
+      - name: "Y. H. Kim"
+        url: "https://younghokim.io/"
+      - name: "N. Q. Le"
+        url: "https://nqle.pages.iu.edu/"
+      - name: "B. Zhou"
+        url: "https://bzhou1982.github.io/"
+    citation: "<em>J. Eur. Math. Soc. (JEMS)</em>, 28 (2026), no. 9, 4105–4148."
+    doi: "https://doi.org/10.4171/jems/1548"
+    pdf: "/files/singular_Abreu_HD_revised.pdf"
+    arxiv: "https://arxiv.org/abs/2209.11681"
+
+  - title: "Interior estimates for Monge–Ampère type fourth order equations"
+    year: 2023
+    topic: fourth-order
+    authors:
+      - name: "B. Zhou"
+        url: "https://bzhou1982.github.io/"
+    citation: "<em>Rev. Mat. Iberoam.</em>, 39 (2023), no. 5, 1895–1923."
+    doi: "https://doi.org/10.4171/rmi/1361"
+    pdf: "/files/int-est-4th-eq-revised.pdf"
+    arxiv: "https://arxiv.org/abs/2206.02309"
+
+  - title: "Refined stability estimates in electrical impedance tomography with multi-layer structure"
+    year: 2022
+    topic: inverse-problems
+    authors:
+      - name: "H. G. Li"
+        url: "https://math.bnu.edu.cn/jzg/szdw/ln/212934.htm"
+      - name: "J.-N. Wang"
+        url: "https://www.math.ntu.edu.tw/~jnwang/"
+    citation: "<em>Inverse Probl. Imaging</em>, 16 (2022), no. 1, 229–249."
+    doi: "https://www.aimsciences.org/article/doi/10.3934/ipi.2021048"
+    pdf: "/files/LWW_inverse.pdf"
+
+  - title: "Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts"
+    year: 2015
+    topic: others
+    authors:
+      - name: "K. Song"
+      - name: "J. Yang"
+      - name: "Y. Sun"
+      - name: "Z. Y. Wang"
+      - name: "R. H. Cong"
+      - name: "T. Yang"
+        url: "https://hgxy.cqu.edu.cn/szll/zzjs/yt.htm"
+    citation: "<em>J. Alloys Compd.</em>, 2015, 646: 277–282."
+    doi: "https://www.sciencedirect.com/science/article/pii/S0925838815302085"
+    pdf: "/files/SYSW_Imp_pho_water.pdf"
