@@ -29,10 +29,15 @@
     data-end-date="{{ talk.end_date | default: talk.date }}"
     data-category="{{ talk.category }}">
 
-  <strong>{{ talk.title }}</strong><br>
+  <div class="talk-title">
+    <strong>{{ talk.title }}</strong>
+  </div>
 
-  <em>{{ talk.event }}</em>,
-  {{ talk.institution }}{% if talk.location %},
-  {{ talk.location }}{% endif %}
-  — {{ talk_date | strip }}{% if talk.note %}. ({{ talk.note }}){% endif %}
+  <div class="talk-details">
+    <em>{{ talk.event }}</em>,
+    {{ talk.institution }}{% if talk.location %},
+    {{ talk.location }}{% endif %}
+    — {{ talk_date | strip }}{% if talk.note %}. ({{ talk.note }}){% endif %}
+  </div>
+
 </li>
