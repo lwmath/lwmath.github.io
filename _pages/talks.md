@@ -5,6 +5,61 @@ permalink: /talks/
 author_profile: true
 ---
 
+<style>
+#talks-dynamic section {
+  margin-bottom: 2.5rem;
+}
+
+#talks-dynamic section > h2 {
+  margin-top: 1.8rem;
+  margin-bottom: 1.2rem;
+}
+
+.talk-year-group {
+  margin-top: 1.3rem;
+  margin-bottom: 2rem;
+}
+
+.talk-year {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.25rem;
+  font-size: 1.08em;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.talk-year-list {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.talk-item {
+  margin-bottom: 1.15rem;
+  line-height: 1.5;
+}
+
+.talk-title {
+  margin-bottom: 0.12rem;
+  line-height: 1.4;
+}
+
+.talk-details {
+  line-height: 1.55;
+}
+
+@media (max-width: 600px) {
+  .talk-item {
+    margin-bottom: 1rem;
+  }
+
+  .talk-year-group {
+    margin-bottom: 1.6rem;
+  }
+}
+</style>
+
+
 <div id="talks-fallback">
 
   {% assign sorted_talks = site.data.talks | sort: "date" | reverse %}
@@ -22,17 +77,17 @@ author_profile: true
 
   <section id="upcoming-section" hidden>
     <h2>Upcoming Talks</h2>
-    <ul id="upcoming-talks"></ul>
+    <div id="upcoming-talks"></div>
   </section>
 
   <section id="conference-section" hidden>
     <h2>Conference and Workshop Talks</h2>
-    <ul id="conference-talks"></ul>
+    <div id="conference-talks"></div>
   </section>
 
   <section id="seminar-section" hidden>
     <h2>Seminar and Colloquium Talks</h2>
-    <ul id="seminar-talks"></ul>
+    <div id="seminar-talks"></div>
   </section>
 
 </div>
@@ -94,26 +149,85 @@ document.addEventListener("DOMContentLoaded", function () {
     return b.dataset.date.localeCompare(a.dataset.date);
   });
 
-  const upcomingList =
+  const upcomingContainer =
     document.getElementById("upcoming-talks");
 
-  const conferenceList =
+  const conferenceContainer =
     document.getElementById("conference-talks");
 
-  const seminarList =
+  const seminarContainer =
     document.getElementById("seminar-talks");
 
-  upcoming.forEach(function (talk) {
-    upcomingList.appendChild(talk.cloneNode(true));
-  });
+  function renderByYear(talkArray, container, yearOrder) {
 
-  conferences.forEach(function (talk) {
-    conferenceList.appendChild(talk.cloneNode(true));
-  });
+    const groups = {};
 
-  seminars.forEach(function (talk) {
-    seminarList.appendChild(talk.cloneNode(true));
-  });
+    talkArray.forEach(function (talk) {
+
+      const talkYear = talk.dataset.date.slice(0, 4);
+
+      if (!groups[talkYear]) {
+        groups[talkYear] = [];
+      }
+
+      groups[talkYear].push(talk);
+
+    });
+
+    const years = Object.keys(groups);
+
+    years.sort(function (a, b) {
+
+      if (yearOrder === "ascending") {
+        return a.localeCompare(b);
+      }
+
+      return b.localeCompare(a);
+
+    });
+
+    years.forEach(function (talkYear) {
+
+      const group = document.createElement("div");
+      group.className = "talk-year-group";
+
+      const heading = document.createElement("h3");
+      heading.className = "talk-year";
+      heading.textContent = talkYear;
+
+      const list = document.createElement("ul");
+      list.className = "talk-year-list";
+
+      groups[talkYear].forEach(function (talk) {
+        list.appendChild(talk.cloneNode(true));
+      });
+
+      group.appendChild(heading);
+      group.appendChild(list);
+
+      container.appendChild(group);
+
+    });
+
+  }
+
+  renderByYear(
+    upcoming,
+    upcomingContainer,
+    "ascending"
+  );
+
+  renderByYear(
+    conferences,
+    conferenceContainer,
+    "descending"
+  );
+
+  renderByYear(
+    seminars,
+    seminarContainer,
+    "descending"
+  );
 
   if (upcoming.length > 0) {
     document.getElementById("upcoming-section").hidden = false;
