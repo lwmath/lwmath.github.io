@@ -1,69 +1,179 @@
 ---
 layout: archive
-title: ""
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
-# Conference Talks
+<!--
+Fallback list:
+If JavaScript is unavailable, all talks are still displayed here.
+-->
+<div id="talks-fallback">
 
-* ***Monge-Ampère type equations in two dimensions***    
-     📅 June 29-July 5, 2025 |📍Workshop on Geometric Analysis 2025 (30 minutes)  
-     🏛️ Research Center for Mathematics and Interdisciplinary Sciences of Shandong University, Qingdao, China   
+  {% assign sorted_talks = site.data.talks | sort: "date" | reverse %}
 
-* ***Flat level sets of Allen-Cahn equation in half-space***  
-     📅 March 15, 2025 |📍Workshop on Geometric Analysis and Ricci Flow 2025  
-     🏛️ Institute for Theoretical Sciences of Westlake University, Hangzhou, China
+  <ul>
+    {% for talk in sorted_talks %}
+      {% include talk-item.html talk=talk %}
+    {% endfor %}
+  </ul>
 
-* ***Singular Abreu equations and linearized Monge-Ampère equations with drifts***    
-     📅 July 21-27, 2024 |📍Workshop on Geometric Analysis 2024 (30 minutes)   
-     🏛️ School of Mathematical Sciences of Inner Mongolia University, Hohhot, China   
+</div>
 
-# Seminar and Colloquium Talks
-* ***An anisotropic stable Bernstein theorem and application***  
-     📅 August 12, 2026 |📍Seminar  
-     🏛️ Beijing Institute Of Technology School Of Mathematics And Statics, Beijing, China  
 
-* ***A Simon-Smith min-max theory for anisotropic minimal surfaces with genus bound***  
-     📅 August 11, 2026 |📍Geometric Analysis Seminar  
-     🏛️ School of Mathematical Sciences of Peking University, Beijing, China  
+<!--
+JavaScript-generated sections.
+Hidden until the script has successfully classified the talks.
+-->
+<div id="talks-dynamic" hidden>
 
-* ***Min-max construction of anisotropic minimal surfaces with genus bound***  
-     📅 July 22, 2026 |📍Analysis & PDE seminar  
-     🏛️ Institute for Theoretical Sciences of Westlake University, Hangzhou, China
-  
-* ***A revisit to the De Giorgi conjecture: Savin's proof and applications***  
-     📅 March 11, 2026 |📍Geometric Analysis Seminar  (online)  
-     🏛️ Beijing International Center for Mathematical Research of Peking University, Beijing, China  
+  <section id="upcoming-section" hidden>
+    <h2>Upcoming Talks</h2>
+    <ul id="upcoming-talks"></ul>
+  </section>
 
-* ***About me and my research***  
-     📅 October 29, 2025 |📍PostDoctoral Research Forum  
-     🏛️ Department of Decision Sciences & Department of Computing Sciences of Bocconi University, Milan, Italy  
+  <section id="conference-section" hidden>
+    <h2>Conference and Workshop Talks</h2>
+    <ul id="conference-talks"></ul>
+  </section>
 
-* ***Bernstein-type theorems for geometric PDEs***  
-     📅 July 29, 2025 |📍Geometric Analysis seminar  
-     🏛️ Institute for Theoretical Sciences of Westlake University, Hangzhou, China  
+  <section id="seminar-section" hidden>
+    <h2>Seminar and Colloquium Talks</h2>
+    <ul id="seminar-talks"></ul>
+  </section>
 
-* ***Interior estimates for the Monge-Ampère type fourth-order equations***  
-     📅 May 6, 2025 |📍Mathematics Colloquium  
-     🏛️ School of Mathematical Sciences of Nankai University, Tianjin, China  
+</div>
 
-* ***A revisit to the De Giorgi conjecture: Savin's proof and applications***  
-     📅 April 21, 2025 |📍Geometry & Topology seminar  
-     🏛️ Institute of Mathematical Sciences of ShanghaiTech University, Shanghai, China  
 
-* ***Partial Legendre transform: two-dimensional and higher-dimensional cases***  
-     📅 April 17, 2025 |📍Geometry & Analysis seminar  
-     🏛️ School of Mathematical Sciences of Shanghai Jiao Tong University, Shanghai, China  
+<script>
+document.addEventListener("DOMContentLoaded", function () {
 
-* ***Bernstein-type theorems for geometric PDEs***  
-     📅 April 16, 2025 |📍Mathematics Colloquium  
-     🏛️ School of Mathematical Sciences of Fudan University, Shanghai, China  
+  // --------------------------------------------------
+  // 1. Get today's date in YYYY-MM-DD format
+  // --------------------------------------------------
 
-* ***Interior estimates for the Monge-Ampère type fourth order equations***   
-     📅 March 24, 2024 |📍Ph.D. Mathematics Forum (13 minutes)  
-     🏛️ School of Mathematics and Statistics of Wuhan University, Wuhan, China
+  const now = new Date();
 
-* ***A revisit to affine Bernstein problem***   
-     📅 March 30, 2022 |📍Geometric PDE seminar  
-     🏛️ Academy of Mathematics and Systems Science of the Chinese Academy of Sciences, Beijing, China   
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, "0");
+  const day = String(now.getDate()).padStart(2, "0");
+
+  const today = `${year}-${month}-${day}`;
+
+
+  // --------------------------------------------------
+  // 2. Read all talks from the fallback list
+  // --------------------------------------------------
+
+  const fallback = document.getElementById("talks-fallback");
+  const dynamic = document.getElementById("talks-dynamic");
+
+  if (!fallback || !dynamic) return;
+
+  const talks = Array.from(
+    fallback.querySelectorAll(".talk-item")
+  );
+
+
+  // --------------------------------------------------
+  // 3. Classify talks
+  // --------------------------------------------------
+
+  const upcoming = [];
+  const conferences = [];
+  const seminars = [];
+
+  talks.forEach(function (talk) {
+
+    const startDate = talk.dataset.date;
+    const endDate = talk.dataset.endDate || startDate;
+    const category = talk.dataset.category;
+
+    // A talk remains "upcoming" through its final day.
+    if (endDate >= today) {
+      upcoming.push(talk);
+    }
+    else if (category === "conference") {
+      conferences.push(talk);
+    }
+    else {
+      seminars.push(talk);
+    }
+
+  });
+
+
+  // --------------------------------------------------
+  // 4. Sort automatically
+  // --------------------------------------------------
+
+  // Upcoming talks:
+  // nearest upcoming talk first
+  upcoming.sort(function (a, b) {
+    return a.dataset.date.localeCompare(b.dataset.date);
+  });
+
+  // Past talks:
+  // newest first
+  function sortPast(a, b) {
+    return b.dataset.date.localeCompare(a.dataset.date);
+  }
+
+  conferences.sort(sortPast);
+  seminars.sort(sortPast);
+
+
+  // --------------------------------------------------
+  // 5. Populate the three sections
+  // --------------------------------------------------
+
+  const upcomingList =
+    document.getElementById("upcoming-talks");
+
+  const conferenceList =
+    document.getElementById("conference-talks");
+
+  const seminarList =
+    document.getElementById("seminar-talks");
+
+
+  upcoming.forEach(function (talk) {
+    upcomingList.appendChild(talk.cloneNode(true));
+  });
+
+  conferences.forEach(function (talk) {
+    conferenceList.appendChild(talk.cloneNode(true));
+  });
+
+  seminars.forEach(function (talk) {
+    seminarList.appendChild(talk.cloneNode(true));
+  });
+
+
+  // --------------------------------------------------
+  // 6. Show only non-empty sections
+  // --------------------------------------------------
+
+  if (upcoming.length > 0) {
+    document.getElementById("upcoming-section").hidden = false;
+  }
+
+  if (conferences.length > 0) {
+    document.getElementById("conference-section").hidden = false;
+  }
+
+  if (seminars.length > 0) {
+    document.getElementById("seminar-section").hidden = false;
+  }
+
+
+  // --------------------------------------------------
+  // 7. Switch from fallback to dynamic layout
+  // --------------------------------------------------
+
+  dynamic.hidden = false;
+  fallback.hidden = true;
+
+});
+</script>
