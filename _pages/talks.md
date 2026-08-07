@@ -5,10 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-<!--
-Fallback list:
-If JavaScript is unavailable, all talks are still displayed here.
--->
 <div id="talks-fallback">
 
   {% assign sorted_talks = site.data.talks | sort: "date" | reverse %}
@@ -22,10 +18,6 @@ If JavaScript is unavailable, all talks are still displayed here.
 </div>
 
 
-<!--
-JavaScript-generated sections.
-Hidden until the script has successfully classified the talks.
--->
 <div id="talks-dynamic" hidden>
 
   <section id="upcoming-section" hidden>
@@ -49,10 +41,6 @@ Hidden until the script has successfully classified the talks.
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 
-  // --------------------------------------------------
-  // 1. Get today's date in YYYY-MM-DD format
-  // --------------------------------------------------
-
   const now = new Date();
 
   const year = now.getFullYear();
@@ -61,24 +49,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const today = `${year}-${month}-${day}`;
 
-
-  // --------------------------------------------------
-  // 2. Read all talks from the fallback list
-  // --------------------------------------------------
-
   const fallback = document.getElementById("talks-fallback");
   const dynamic = document.getElementById("talks-dynamic");
 
-  if (!fallback || !dynamic) return;
+  if (!fallback || !dynamic) {
+    return;
+  }
 
   const talks = Array.from(
     fallback.querySelectorAll(".talk-item")
   );
-
-
-  // --------------------------------------------------
-  // 3. Classify talks
-  // --------------------------------------------------
 
   const upcoming = [];
   const conferences = [];
@@ -90,43 +70,29 @@ document.addEventListener("DOMContentLoaded", function () {
     const endDate = talk.dataset.endDate || startDate;
     const category = talk.dataset.category;
 
-    // A talk remains "upcoming" through its final day.
     if (endDate >= today) {
       upcoming.push(talk);
     }
     else if (category === "conference") {
       conferences.push(talk);
     }
-    else {
+    else if (category === "seminar") {
       seminars.push(talk);
     }
 
   });
 
-
-  // --------------------------------------------------
-  // 4. Sort automatically
-  // --------------------------------------------------
-
-  // Upcoming talks:
-  // nearest upcoming talk first
   upcoming.sort(function (a, b) {
     return a.dataset.date.localeCompare(b.dataset.date);
   });
 
-  // Past talks:
-  // newest first
-  function sortPast(a, b) {
+  conferences.sort(function (a, b) {
     return b.dataset.date.localeCompare(a.dataset.date);
-  }
+  });
 
-  conferences.sort(sortPast);
-  seminars.sort(sortPast);
-
-
-  // --------------------------------------------------
-  // 5. Populate the three sections
-  // --------------------------------------------------
+  seminars.sort(function (a, b) {
+    return b.dataset.date.localeCompare(a.dataset.date);
+  });
 
   const upcomingList =
     document.getElementById("upcoming-talks");
@@ -136,7 +102,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const seminarList =
     document.getElementById("seminar-talks");
-
 
   upcoming.forEach(function (talk) {
     upcomingList.appendChild(talk.cloneNode(true));
@@ -150,11 +115,6 @@ document.addEventListener("DOMContentLoaded", function () {
     seminarList.appendChild(talk.cloneNode(true));
   });
 
-
-  // --------------------------------------------------
-  // 6. Show only non-empty sections
-  // --------------------------------------------------
-
   if (upcoming.length > 0) {
     document.getElementById("upcoming-section").hidden = false;
   }
@@ -166,11 +126,6 @@ document.addEventListener("DOMContentLoaded", function () {
   if (seminars.length > 0) {
     document.getElementById("seminar-section").hidden = false;
   }
-
-
-  // --------------------------------------------------
-  // 7. Switch from fallback to dynamic layout
-  // --------------------------------------------------
 
   dynamic.hidden = false;
   fallback.hidden = true;
