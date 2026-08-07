@@ -1,0 +1,38 @@
+{% assign talk = include.talk %}
+
+{% assign start_year = talk.date | date: "%Y" %}
+{% assign start_month = talk.date | date: "%B" %}
+{% assign start_day = talk.date | date: "%-d" %}
+
+{% capture talk_date %}
+  {% if talk.end_date %}
+
+    {% assign end_year = talk.end_date | date: "%Y" %}
+    {% assign end_month = talk.end_date | date: "%B" %}
+    {% assign end_day = talk.end_date | date: "%-d" %}
+
+    {% if start_year == end_year and start_month == end_month %}
+      {{ start_month }} {{ start_day }}–{{ end_day }}, {{ start_year }}
+    {% elsif start_year == end_year %}
+      {{ start_month }} {{ start_day }}–{{ end_month }} {{ end_day }}, {{ start_year }}
+    {% else %}
+      {{ start_month }} {{ start_day }}, {{ start_year }}–{{ end_month }} {{ end_day }}, {{ end_year }}
+    {% endif %}
+
+  {% else %}
+    {{ start_month }} {{ start_day }}, {{ start_year }}
+  {% endif %}
+{% endcapture %}
+
+<li class="talk-item"
+    data-date="{{ talk.date }}"
+    data-end-date="{{ talk.end_date | default: talk.date }}"
+    data-category="{{ talk.category }}">
+
+  <strong>{{ talk.title }}</strong><br>
+
+  <em>{{ talk.event }}</em>,
+  {{ talk.institution }}{% if talk.location %},
+  {{ talk.location }}{% endif %}
+  — {{ talk_date | strip }}{% if talk.note %}. ({{ talk.note }}){% endif %}
+</li>
