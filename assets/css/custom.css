@@ -68,3 +68,67 @@
   .lw-pubs-panels ol,
   .lw-pubs-panels ul { margin-left: 1.0em; }
 }
+
+
+/* ==================================================
+   Talks
+   ================================================== */
+
+.talk-item {
+  margin-bottom: 1.15rem;
+  line-height: 1.5;
+}
+
+.talk-title {
+  margin-bottom: 0.12rem;
+  line-height: 1.4;
+}
+
+.talk-details {
+  line-height: 1.55;
+}
+
+
+/* Year grouping on the Talks archive page */
+
+.talk-year-group {
+  margin-top: 1.3rem;
+  margin-bottom: 2rem;
+}
+
+.talk-year {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.25rem;
+  font-size: 1.08em;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.talk-year-list {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+/* Upcoming Talks on the homepage */
+
+#about-upcoming-talks {
+  margin-top: 1.8rem;
+  margin-bottom: 2rem;
+}
+
+#about-upcoming-talks-list {
+  margin-top: 0.8rem;
+}
+
+
+@media (max-width: 600px) {
+  .talk-item {
+    margin-bottom: 1rem;
+  }
+
+  .talk-year-group {
+    margin-bottom: 1.6rem;
+  }
+}
