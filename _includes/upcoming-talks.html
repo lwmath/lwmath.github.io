@@ -1,0 +1,91 @@
+<div id="about-upcoming-talks" hidden>
+
+  <h1>Upcoming Talks</h1>
+
+  <ul id="about-upcoming-talks-list"></ul>
+
+</div>
+
+
+<div id="about-upcoming-talks-source" hidden>
+
+  <ul>
+    {% for talk in site.data.talks %}
+      {% include talk-item.html talk=talk %}
+    {% endfor %}
+  </ul>
+
+</div>
+
+
+<script>
+(function () {
+
+  function renderAboutUpcomingTalks() {
+
+    const now = new Date();
+
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, "0");
+    const day = String(now.getDate()).padStart(2, "0");
+
+    const today = `${year}-${month}-${day}`;
+
+    const section =
+      document.getElementById("about-upcoming-talks");
+
+    const list =
+      document.getElementById("about-upcoming-talks-list");
+
+    const source =
+      document.getElementById("about-upcoming-talks-source");
+
+    if (!section || !list || !source) {
+      return;
+    }
+
+    const talks = Array.from(
+      source.querySelectorAll(".talk-item")
+    );
+
+    const upcoming = talks.filter(function (talk) {
+
+      const startDate = talk.dataset.date;
+      const endDate = talk.dataset.endDate || startDate;
+
+      return endDate >= today;
+
+    });
+
+    upcoming.sort(function (a, b) {
+      return a.dataset.date.localeCompare(b.dataset.date);
+    });
+
+    if (upcoming.length === 0) {
+      return;
+    }
+
+    upcoming.forEach(function (talk) {
+      list.appendChild(talk.cloneNode(true));
+    });
+
+    section.hidden = false;
+
+  }
+
+  if (document.readyState === "loading") {
+
+    document.addEventListener(
+      "DOMContentLoaded",
+      renderAboutUpcomingTalks
+    );
+
+  }
+  else {
+
+    renderAboutUpcomingTalks();
+
+  }
+
+})();
+</script>
