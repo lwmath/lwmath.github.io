@@ -5,6 +5,44 @@ permalink: /talks/
 author_profile: true
 ---
 
+
+<style>
+
+.talk-item {
+  margin-bottom: 1.15rem;
+  line-height: 1.5;
+}
+
+.talk-title {
+  margin-bottom: 0.12rem;
+  line-height: 1.4;
+}
+
+.talk-details {
+  line-height: 1.55;
+}
+
+#talks-dynamic section {
+  margin-bottom: 2.5rem;
+}
+
+#talks-dynamic section > h2 {
+  margin-top: 1.8rem;
+  margin-bottom: 1.2rem;
+}
+
+
+@media (max-width: 600px) {
+
+  .talk-item {
+    margin-bottom: 1rem;
+  }
+
+}
+
+</style>
+
+
 <div id="talks-fallback">
 
   {% assign sorted_talks = site.data.talks | sort: "date" | reverse %}
@@ -20,21 +58,33 @@ author_profile: true
 
 <div id="talks-dynamic" hidden>
 
+
   <section id="conference-section" hidden>
+
     <h2>Conference and Workshop Talks</h2>
-    <div id="conference-talks"></div>
+
+    <ul id="conference-talks"></ul>
+
   </section>
 
+
   <section id="seminar-section" hidden>
+
     <h2>Seminar and Colloquium Talks</h2>
-    <div id="seminar-talks"></div>
+
+    <ul id="seminar-talks"></ul>
+
   </section>
+
 
 </div>
 
 
+
 <script>
+
 document.addEventListener("DOMContentLoaded", function () {
+
 
   const now = new Date();
 
@@ -44,142 +94,158 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const today = `${year}-${month}-${day}`;
 
+
+
   const fallback =
     document.getElementById("talks-fallback");
+
 
   const dynamic =
     document.getElementById("talks-dynamic");
 
+
   if (!fallback || !dynamic) {
+
     return;
+
   }
+
+
 
   const talks = Array.from(
     fallback.querySelectorAll(".talk-item")
   );
 
+
+
   const conferences = [];
+
   const seminars = [];
+
+
 
   talks.forEach(function (talk) {
 
-    const startDate = talk.dataset.date;
-    const endDate = talk.dataset.endDate || startDate;
-    const category = talk.dataset.category;
+
+    const endDate =
+      talk.dataset.endDate || talk.dataset.date;
+
+
+    const category =
+      talk.dataset.category;
+
+
+
+    /*
+       Remove all future talks.
+       They are displayed on the homepage.
+    */
 
     if (endDate >= today) {
+
       return;
+
     }
+
+
 
     if (category === "conference") {
+
       conferences.push(talk);
-    }
-    else if (category === "seminar") {
-      seminars.push(talk);
+
     }
 
+
+    else if (category === "seminar") {
+
+      seminars.push(talk);
+
+    }
+
+
   });
+
+
+
+  /*
+     Newest talks first.
+  */
 
   conferences.sort(function (a, b) {
-    return b.dataset.date.localeCompare(a.dataset.date);
+
+    return b.dataset.date.localeCompare(
+      a.dataset.date
+    );
+
   });
+
+
 
   seminars.sort(function (a, b) {
-    return b.dataset.date.localeCompare(a.dataset.date);
+
+    return b.dataset.date.localeCompare(
+      a.dataset.date
+    );
+
   });
 
-  const conferenceContainer =
+
+
+  const conferenceList =
     document.getElementById("conference-talks");
 
-  const seminarContainer =
+
+  const seminarList =
     document.getElementById("seminar-talks");
 
-  function renderByYear(talkArray, container) {
 
-    const groups = {};
 
-    talkArray.forEach(function (talk) {
+  conferences.forEach(function (talk) {
 
-      const talkYear =
-        talk.dataset.date.slice(0, 4);
+    conferenceList.appendChild(
+      talk.cloneNode(true)
+    );
 
-      if (!groups[talkYear]) {
-        groups[talkYear] = [];
-      }
+  });
 
-      groups[talkYear].push(talk);
 
-    });
 
-    const years =
-      Object.keys(groups);
+  seminars.forEach(function (talk) {
 
-    years.sort(function (a, b) {
-      return b.localeCompare(a);
-    });
+    seminarList.appendChild(
+      talk.cloneNode(true)
+    );
 
-    years.forEach(function (talkYear) {
+  });
 
-      const group =
-        document.createElement("div");
 
-      group.className =
-        "talk-year-group";
-
-      const heading =
-        document.createElement("h3");
-
-      heading.className =
-        "talk-year";
-
-      heading.textContent =
-        talkYear;
-
-      const list =
-        document.createElement("ul");
-
-      list.className =
-        "talk-year-list";
-
-      groups[talkYear].forEach(function (talk) {
-        list.appendChild(
-          talk.cloneNode(true)
-        );
-      });
-
-      group.appendChild(heading);
-      group.appendChild(list);
-
-      container.appendChild(group);
-
-    });
-
-  }
-
-  renderByYear(
-    conferences,
-    conferenceContainer
-  );
-
-  renderByYear(
-    seminars,
-    seminarContainer
-  );
 
   if (conferences.length > 0) {
+
     document.getElementById(
       "conference-section"
     ).hidden = false;
+
   }
 
+
+
   if (seminars.length > 0) {
+
     document.getElementById(
       "seminar-section"
     ).hidden = false;
+
   }
 
+
+
   dynamic.hidden = false;
+
   fallback.hidden = true;
 
+
+
 });
+
 </script>
