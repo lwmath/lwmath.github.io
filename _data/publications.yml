@@ -22,6 +22,16 @@ topics:
 
 
 items:
+  - title: "Interior C<sup>1,&alpha;</sup> estimates for the linearized Monge–Ampère equation in two dimensions"
+    year: 2026
+    topic: monge-ampere
+    selected: true
+    authors:
+      - name: "B. Zhou"
+        url: "https://bzhou1982.github.io/"
+    citation: "Preprint (2026)."
+    pdf: "/files/gradient_holder_LMA.pdf"
+    
   - title: "Liouville-type theorems for coupled-drift Monge–Ampère equations"
     year: 2026
     topic: monge-ampere
