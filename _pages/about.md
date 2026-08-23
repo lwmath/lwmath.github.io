@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<p style="font-size: 0.9em; color: #777; margin-top: -0.4em; margin-bottom: 1.4em;">
+  <strong>Last updated:</strong> {{ site.time | date: "%B %-d, %Y" }}
+</p>
+
 Currently, I am a postdoctoral researcher at Bocconi University in Milan, Italy, working under the supervision of Prof. [Antonio De Rosa](https://dec.unibocconi.eu/people/antonio-de-rosa).
 
 I received my Ph.D. in Mathematics from the School of Mathematical Sciences, Peking University, under the supervision of Prof. [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm). My doctoral dissertation, titled *Monge-Ampère type fourth-order equations and applications*, was successfully defended on May 16, 2025.
@@ -25,8 +29,6 @@ This is my [CV](/files/CV_lw.pdf) (July 2026).
 
 {% include selected-publications.html %}
 
-
-**Last updated: 2026. 8. 6**
 
 <!--
 # Publications
