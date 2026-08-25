@@ -31,6 +31,7 @@ items:
         url: "https://bzhou1982.github.io/"
     citation: "Preprint (2026)."
     pdf: "/files/gradient_holder_LMA.pdf"
+    arxiv: "https://arxiv.org/abs/2608.22180"
     
   - title: "Liouville-type theorems for coupled-drift Monge–Ampère equations"
     year: 2026
