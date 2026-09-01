@@ -21,9 +21,9 @@ items:
     topic: elliptic-problems
     selected: false
     authors:
-      - name: "C. Li"
+      - name: "C. M. Li"
         url: "https://faculty.sjtu.edu.cn/licongming/en/index.htm"
-      - name: "J. Xie"
+      - name: "J. D. Xie"
         url: "https://wucms.sjtu.edu.cn/ry_js/419.html"
     citation: "Preprint (2026)."
     pdf: "/files/Expansion.pdf"
