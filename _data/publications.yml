@@ -1,27 +1,33 @@
 topics:
-  - key: minimal-surfaces
-    title: "Minimal Surfaces"
-
   - key: monge-ampere
     title: "Monge–Ampère Equations"
 
   - key: fourth-order
-    title: "Monge–Ampère type Fourth-order Equations"
+    title: "Monge–Ampère Type Fourth-Order Equations"
 
-  - key: variational-problems
-    title: "Variational Problems"
+  - key: geometric-variational
+    title: "Geometric and Variational Problems"
 
-  - key: allen-cahn
-    title: "Allen–Cahn Equations"
-
-  - key: inverse-problems
-    title: "Inverse Problems"
+  - key: elliptic-problems
+    title: "Local and Nonlocal Elliptic Problems"
 
   - key: others
-    title: "Others"
+    title: "Other Topics"
 
 
 items:
+  - title: "Asymptotic expansions of the fundamental solution for a mixed local–nonlocal operator"
+    year: 2026
+    topic: elliptic-problems
+    selected: false
+    authors:
+      - name: "C. Li"
+        url: "https://faculty.sjtu.edu.cn/licongming/en/index.htm"
+      - name: "J. Xie"
+        url: "https://wucms.sjtu.edu.cn/ry_js/419.html"
+    citation: "Preprint (2026)."
+    pdf: "/files/Expansion.pdf"
+
   - title: "Interior C<sup>1,&alpha;</sup> estimates for the linearized Monge–Ampère equation in two dimensions"
     year: 2026
     topic: monge-ampere
@@ -32,7 +38,7 @@ items:
     citation: "Preprint (2026)."
     pdf: "/files/gradient_holder_LMA.pdf"
     arxiv: "https://arxiv.org/abs/2608.22180"
-    
+
   - title: "Liouville-type theorems for coupled-drift Monge–Ampère equations"
     year: 2026
     topic: monge-ampere
@@ -43,7 +49,7 @@ items:
 
   - title: "Min-max construction of anisotropic minimal surfaces with genus bound"
     year: 2026
-    topic: minimal-surfaces
+    topic: geometric-variational
     selected: true
     authors:
       - name: "A. De Rosa"
@@ -57,6 +63,7 @@ items:
   - title: "Local potential and Hölder estimates for the linearized Monge–Ampère equation"
     year: 2025
     topic: monge-ampere
+    selected: false
     authors:
       - name: "G. Q. Cui"
         url: "https://gqcuimath.github.io/"
@@ -68,7 +75,7 @@ items:
 
   - title: "Flat level sets of Allen–Cahn equation in half-space"
     year: 2024
-    topic: allen-cahn
+    topic: geometric-variational
     selected: true
     authors:
       - name: "W. K. Du"
@@ -82,6 +89,7 @@ items:
   - title: "The partial Legendre transform in Monge–Ampère equations"
     year: 2024
     topic: monge-ampere
+    selected: false
     authors:
       - name: "B. Zhou"
         url: "https://bzhou1982.github.io/"
@@ -99,7 +107,8 @@ items:
 
   - title: "C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint"
     year: 2024
-    topic: variational-problems
+    topic: geometric-variational
+    selected: false
     authors:
       - name: "B. Zhou"
         url: "https://bzhou1982.github.io/"
@@ -110,6 +119,7 @@ items:
   - title: "Liouville theorems for a class of degenerate or singular Monge–Ampère equations"
     year: 2024
     topic: monge-ampere
+    selected: false
     authors:
       - name: "B. Zhou"
         url: "https://bzhou1982.github.io/"
@@ -137,6 +147,7 @@ items:
   - title: "Interior estimates for Monge–Ampère type fourth order equations"
     year: 2023
     topic: fourth-order
+    selected: false
     authors:
       - name: "B. Zhou"
         url: "https://bzhou1982.github.io/"
@@ -147,7 +158,8 @@ items:
 
   - title: "Refined stability estimates in electrical impedance tomography with multi-layer structure"
     year: 2022
-    topic: inverse-problems
+    topic: elliptic-problems
+    selected: false
     authors:
       - name: "H. G. Li"
         url: "https://math.bnu.edu.cn/jzg/szdw/ln/212934.htm"
@@ -160,6 +172,7 @@ items:
   - title: "Improving photocatalytic water reduction activity for In<sub>2</sub>TiO<sub>5</sub> by loading metal cocatalysts"
     year: 2015
     topic: others
+    selected: false
     authors:
       - name: "K. Song"
       - name: "J. Yang"
