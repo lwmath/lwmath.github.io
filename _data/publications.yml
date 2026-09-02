@@ -27,7 +27,7 @@ items:
         url: "https://wucms.sjtu.edu.cn/ry_js/419.html"
     citation: "Preprint (2026)."
     pdf: "/files/Expansion.pdf"
-    arXiv: "https://arxiv.org/abs/2609.01403"
+    arxiv: "https://arxiv.org/abs/2609.01403"
 
   - title: "Interior C<sup>1,&alpha;</sup> estimates for the linearized Monge–Ampère equation in two dimensions"
     year: 2026
