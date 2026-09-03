@@ -5,14 +5,18 @@
   institution: "Department of Mathematics, School of Sciences, Great Bay University"
   location: "Dongguan, China"
   note: "Online"
-  
+  abstract: >-
+    In this talk, I will give a brief introduction to the theory of anisotropic minimal surfaces, starting from the classical area functional and its anisotropic counterparts, in which the surface energy depends on the tangent plane or, in the hypersurface case, on the unit normal. I will discuss some of the main questions concerning existence, rectifiability, and regularity, together with their historical development. Particular attention will be paid to the absence, for general anisotropic integrands, of the monotonicity formula available in the classical setting, and to the additional difficulties this creates in the study of minimizers and stationary varifolds. I will conclude with some recent developments in anisotropic min-max theory, including joint work with Antonio De Rosa and Aria Halavati.
+
 - title: "An anisotropic stable Bernstein theorem and application"
   date: "2026-08-25"
   category: seminar
   event: "Seminar"
   institution: "College of Mathematics and Statistics, Chongqing University"
   location: "Chongqing, China"
-  
+  abstract: >-
+    In this talk, I will discuss an explicit two-dimensional stable Bernstein theorem for autonomous anisotropic surface energies. Under an ellipticity ratio bound less than 8, we show that every complete two-sided anisotropic minimal surface in \(\mathbb R^3\) which is stable must be planar. As an application, I will explain how this result appears as a blow-up input in a removable-singularity argument for anisotropic min--max surfaces, based on recent joint work with Antonio De Rosa and Aria Halavati.
+
 - title: "A Simon–Smith min-max theory for anisotropic minimal surfaces with genus bound"
   date: "2026-08-16"
   end_date: "2026-08-22"
@@ -20,6 +24,8 @@
   event: "Workshop on Geometric Measure Theory and Partial Differential Equations"
   institution: "Tianyuan Mathematical Center in Central China, Hubei Minzu University"
   location: "Enshi, China"
+  abstract: >-
+    In this talk, I will discuss a Simon–Smith min-max theory for anisotropic minimal surfaces in closed three-manifolds, with controlled genus. The starting point is an anisotropic analogue of the celebrated theorem of Meeks–Simon–Yau: every minimizing sequence of surfaces within a fixed isotopy class converges, as varifolds, to a smooth stable anisotropic minimal surface, possibly with multiplicity, with lower semicontinuity of genus. This result strengthens previous existence theorems for anisotropic Plateau problems and provides the compactness needed for a topological min-max construction. As an application, we prove the existence of closed embedded anisotropic minimal surfaces with controlled genus in arbitrary closed three-manifolds. This is joint work with Antonio De Rosa and Aria Halavati.
 
 - title: "An anisotropic stable Bernstein theorem and application"
   date: "2026-08-14"
@@ -27,6 +33,8 @@
   event: "Seminar"
   institution: "School of Mathematics and Statistics, Beijing Institute of Technology"
   location: "Beijing, China"
+  abstract: >-
+    In this talk, I will discuss an explicit two-dimensional stable Bernstein theorem for autonomous anisotropic surface energies. Under an ellipticity ratio bound less than 8, we show that every complete two-sided anisotropic minimal surface in \(\mathbb R^3\) which is stable must be planar. As an application, I will explain how this result appears as a blow-up input in a removable-singularity argument for anisotropic min--max surfaces, based on recent joint work with Antonio De Rosa and Aria Halavati.
 
 - title: "A Simon–Smith min-max theory for anisotropic minimal surfaces with genus bound"
   date: "2026-08-11"
@@ -34,6 +42,8 @@
   event: "Geometric Analysis Seminar"
   institution: "School of Mathematical Sciences, Peking University"
   location: "Beijing, China"
+  abstract: >-
+    In this talk, I will discuss a Simon–Smith min-max theory for anisotropic minimal surfaces in closed three-manifolds, with controlled genus. The starting point is an anisotropic analogue of the celebrated theorem of Meeks–Simon–Yau: every minimizing sequence of surfaces within a fixed isotopy class converges, as varifolds, to a smooth stable anisotropic minimal surface, possibly with multiplicity, with lower semicontinuity of genus. This result strengthens previous existence theorems for anisotropic Plateau problems and provides the compactness needed for a topological min-max construction. As an application, we prove the existence of closed embedded anisotropic minimal surfaces with controlled genus in arbitrary closed three-manifolds. This is joint work with Antonio De Rosa and Aria Halavati.
 
 - title: "Min-max construction of anisotropic minimal surfaces with genus bound"
   date: "2026-07-22"
@@ -41,6 +51,8 @@
   event: "Analysis & PDE Seminar"
   institution: "Institute for Theoretical Sciences, Westlake University"
   location: "Hangzhou, China"
+  abstract: >-
+    In this talk, I will discuss a Simon–Smith min-max theory for anisotropic minimal surfaces in closed three-manifolds, with controlled genus. The starting point is an anisotropic analogue of the celebrated theorem of Meeks–Simon–Yau: every minimizing sequence of surfaces within a fixed isotopy class converges, as varifolds, to a smooth stable anisotropic minimal surface, possibly with multiplicity, with lower semicontinuity of genus. This result strengthens previous existence theorems for anisotropic Plateau problems and provides the compactness needed for a topological min-max construction. As an application, we prove the existence of closed embedded anisotropic minimal surfaces with controlled genus in arbitrary closed three-manifolds. This is joint work with Antonio De Rosa and Aria Halavati.
 
 - title: "A revisit to the De Giorgi conjecture: Savin's proof and applications"
   date: "2026-03-11"
@@ -49,6 +61,8 @@
   institution: "Beijing International Center for Mathematical Research, Peking University"
   location: "Beijing, China"
   note: "Online"
+  abstract: >-
+    In this talk, I will first introduce the Allen-Cahn equation and the related De Giorgi conjecture. I will then present the key ideas and a detailed sketch of Savin's groundbreaking proof in dimensions up to 8. Building on Savin's framework, I will discuss a half-space version of De Giorgi's conjecture, based on joint work with Wenkui Du and Yang Yang.
 
 - title: "About me and my research"
   date: "2025-10-29"
@@ -63,6 +77,8 @@
   event: "Geometric Analysis Seminar"
   institution: "Institute for Theoretical Sciences, Westlake University"
   location: "Hangzhou, China"
+  abstract: >-
+     In this talk, I will present several Bernstein-type theorems for geometric PDEs, including minimal surface equations, Monge-Ampère equations, affine maximal surface equations, linearized Monge-Ampère equations, and Allen-Cahn equations. This presentation is based on an expository article by Connor Mooney, as well as several of my joint works with Bin Zhou, Wenkui Du, and Yang Yang.
 
 - title: "Monge–Ampère type equations in two dimensions"
   date: "2025-06-29"
@@ -79,6 +95,8 @@
   event: "Mathematics Colloquium"
   institution: "School of Mathematical Sciences, Nankai University"
   location: "Tianjin, China"
+  abstract: >-
+     In this talk, I will present new methods for studying interior estimates of Monge-Ampère type fourth-order equations. In two dimensions, we establish estimates for the homogeneous case using the partial Legendre transform, and for the inhomogeneous case, we apply integral techniques based on the Monge-Ampère Sobolev inequality, which works even for singular right-hand sides. In higher dimensions, we obtain interior regularity under integral bounds on the second derivatives and the inverse of determinant. Finally, I will also discuss possible extensions of the partial Legendre transform to higher-dimensional settings. This talk is based on a joint work with Bin Zhou.
 
 - title: "A revisit to the De Giorgi conjecture: Savin's proof and applications"
   date: "2025-04-21"
@@ -86,6 +104,8 @@
   event: "Geometry & Topology Seminar"
   institution: "Institute of Mathematical Sciences, ShanghaiTech University"
   location: "Shanghai, China"
+  abstract: >-
+    In this talk, I will first introduce the Allen-Cahn equation and related De Giorgi conjecture. I will then present the key ideas and a detailed sketch of Savin’s groundbreaking proof of the conjecture in dimensions up to 8. Building on Savin’s framework, I will discuss a half-space version of De Giorgi’s conjecture, which is a recent joint work with Wenkui Du and Yang Yang.
 
 - title: "Partial Legendre transform: two-dimensional and higher-dimensional cases"
   date: "2025-04-17"
@@ -93,6 +113,8 @@
   event: "Geometry & Analysis Seminar"
   institution: "School of Mathematical Sciences, Shanghai Jiao Tong University"
   location: "Shanghai, China"
+  abstract: >-
+    In this talk, I will first introduce the application of the partial Legendre transform to two-dimensional Monge-Ampère type equations, based on my recent joint works with Bin Zhou. Then, I will extend this framework to higher dimensions based on the results of Rios-Sawyer-Wheeden and Le-Savin, which may provide insights into possible generalizations of these techniques to higher-dimensional Monge-Ampère type fourth-order equations.
 
 - title: "Bernstein-type theorems for geometric PDEs"
   date: "2025-04-16"
@@ -100,6 +122,8 @@
   event: "Mathematics Colloquium"
   institution: "School of Mathematical Sciences, Fudan University"
   location: "Shanghai, China"
+  abstract: >-
+    In this talk, I will present several Bernstein-type theorems for geometric PDEs, including minimal surface equations, Monge-Ampère equations, affine maximal surface equations, linearized Monge-Ampère equations, and Allen-Cahn equations. This presentation is based on an expository article by Connor Mooney, as well as several of my joint works with Bin Zhou, Wenkui Du, and Yang Yang.
 
 - title: "Flat level sets of Allen–Cahn equation in half-space"
   date: "2025-03-15"
@@ -107,6 +131,8 @@
   event: "Workshop on Geometric Analysis and Ricci Flow 2025"
   institution: "Institute for Theoretical Sciences, Westlake University"
   location: "Hangzhou, China"
+  abstract: >-
+    In this talk, I will present a half-space Bernstein theorem for Allen-Cahn equation. More precisely, I will show that every  solution $u$ of the Allen-Cahn equation in the half-space $\overline{\mathbb{R}^n_+}:=\{(x_1,x_2,\cdots,x_n)\in\mathbb{R}^n:\,x_1\geq 0\}$ with $|u|\leq 1$, boundary value given by the restriction of a one-dimensional solution  on $\{x_1=0\}$ and monotone condition $\partial_{x_n}u>0$ as well as limiting condition $\lim_{x_n\to\pm\infty}u(x',x_n)=\pm 1$ must itself be one-dimensional. This talk is based on recent work joint with Wenkui Du and Yang Yang.
 
 - title: "Singular Abreu equations and linearized Monge–Ampère equations with drifts"
   date: "2024-07-21"
@@ -124,6 +150,8 @@
   institution: "School of Mathematics and Statistics, Wuhan University"
   location: "Wuhan, China"
   note: "13 minutes"
+  abstract: >-
+     In this talk, I will present new methods for studying interior estimates of Monge-Ampère type fourth-order equations. In two dimensions, we establish estimates for the homogeneous case using the partial Legendre transform, and for the inhomogeneous case, we apply integral techniques based on the Monge-Ampère Sobolev inequality, which works even for singular right-hand sides. In higher dimensions, we obtain interior regularity under integral bounds on the second derivatives and the inverse of determinant. Finally, I will also discuss possible extensions of the partial Legendre transform to higher-dimensional settings. This talk is based on a joint work with Bin Zhou.
 
 - title: "A revisit to affine Bernstein problem"
   date: "2022-03-30"
@@ -131,3 +159,5 @@
   event: "Geometric PDE Seminar"
   institution: "Academy of Mathematics and Systems Science, Chinese Academy of Sciences"
   location: "Beijing, China"
+  abstract: >-
+    In this report, I'll go through the proof of affine Bernstein problem given by Trudinger and Wang \cite{TW}, and I mainly introduce the idea about how to get the all dimensional conclusions under the assumption of uniform, "strict convexity" and just mention the proof of dimension two, which is the Chern conjecture \cite{Ch}. It is because their method for dimension two can not be extended to higher dimensions, even for dimension 3 and there are also other proofs of Chern's conjecture in dimension two. In the end, it is also worthy to mention that they produced a (non-smooth) counterexample for $n\geq 10$. This lecture is a seminar report，mainly introduce the existence work.
