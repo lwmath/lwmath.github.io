@@ -133,43 +133,53 @@
   }
 }
 
-
 /* ==================================================
    Talk abstracts
    ================================================== */
 
-.talk-abstract {
-  margin-top: 0.45rem;
-  margin-bottom: 0.2rem;
+.talk-abstract-inline {
+  display: inline;
+  margin-left: 0.35rem;
 }
 
-.talk-abstract summary {
+.talk-abstract-inline summary {
   display: inline-block;
-  padding: 0.18rem 0.55rem;
+  padding: 0.08rem 0.42rem;
   border: 1px solid rgba(0, 0, 0, 0.18);
   border-radius: 4px;
   cursor: pointer;
-  font-size: 0.82em;
-  line-height: 1.4;
+  font-size: 0.78em;
+  line-height: 1.35;
   color: inherit;
   background: transparent;
   user-select: none;
+  vertical-align: baseline;
 }
 
-.talk-abstract summary:hover {
-  background: rgba(0, 0, 0, 0.04);
+.talk-abstract-inline summary::-webkit-details-marker {
+  display: none;
 }
 
-.talk-abstract summary::before {
+.talk-abstract-inline summary::marker {
+  content: "";
+}
+
+.talk-abstract-inline summary::before {
   content: "▸ ";
 }
 
-.talk-abstract[open] summary::before {
+.talk-abstract-inline[open] summary::before {
   content: "▾ ";
 }
 
+.talk-abstract-inline summary:hover {
+  background: rgba(0, 0, 0, 0.04);
+}
+
 .talk-abstract-content {
+  display: block;
   margin-top: 0.55rem;
+  margin-bottom: 0.25rem;
   padding-left: 0.75rem;
   border-left: 2px solid rgba(0, 0, 0, 0.12);
   font-size: 0.94em;
