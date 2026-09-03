@@ -132,7 +132,7 @@
   institution: "Institute for Theoretical Sciences, Westlake University"
   location: "Hangzhou, China"
   abstract: >-
-    In this talk, I will present a half-space Bernstein theorem for Allen-Cahn equation. More precisely, I will show that every  solution $u$ of the Allen-Cahn equation in the half-space $\overline{\mathbb{R}^n_+}:=\{(x_1,x_2,\cdots,x_n)\in\mathbb{R}^n:\,x_1\geq 0\}$ with $|u|\leq 1$, boundary value given by the restriction of a one-dimensional solution  on $\{x_1=0\}$ and monotone condition $\partial_{x_n}u>0$ as well as limiting condition $\lim_{x_n\to\pm\infty}u(x',x_n)=\pm 1$ must itself be one-dimensional. This talk is based on recent work joint with Wenkui Du and Yang Yang.
+    In this talk, I will present a half-space Bernstein theorem for Allen-Cahn equation. More precisely, I will show that every solution $u$ of the Allen-Cahn equation in the half-space $\overline{\mathbb{R}^n_+}:=\{(x_1,x_2,\cdots,x_n)\in\mathbb{R}^n:\,x_1\geq 0\}$ with $|u|\leq 1$, boundary value given by the restriction of a one-dimensional solution  on $\{x_1=0\}$ and monotone condition $\partial_{x_n}u>0$ as well as limiting condition $\lim_{x_n\to\pm\infty}u(x',x_n)=\pm 1$ must itself be one-dimensional. This talk is based on recent work joint with Wenkui Du and Yang Yang.
 
 - title: "Singular Abreu equations and linearized Monge–Ampère equations with drifts"
   date: "2024-07-21"
