@@ -5,6 +5,7 @@
 {% assign start_day = talk.date | date: "%-d" %}
 
 {% capture talk_date %}
+
   {% if talk.end_date %}
 
     {% assign end_year = talk.end_date | date: "%Y" %}
@@ -12,17 +13,27 @@
     {% assign end_day = talk.end_date | date: "%-d" %}
 
     {% if start_year == end_year and start_month == end_month %}
+
       {{ start_month }} {{ start_day }}–{{ end_day }}, {{ start_year }}
+
     {% elsif start_year == end_year %}
+
       {{ start_month }} {{ start_day }}–{{ end_month }} {{ end_day }}, {{ start_year }}
+
     {% else %}
+
       {{ start_month }} {{ start_day }}, {{ start_year }}–{{ end_month }} {{ end_day }}, {{ end_year }}
+
     {% endif %}
 
   {% else %}
+
     {{ start_month }} {{ start_day }}, {{ start_year }}
+
   {% endif %}
+
 {% endcapture %}
+
 
 <li class="talk-item"
     data-date="{{ talk.date }}"
@@ -30,14 +41,36 @@
     data-category="{{ talk.category }}">
 
   <div class="talk-title">
+
     <strong>{{ talk.title }}</strong>
+
   </div>
 
+
   <div class="talk-details">
+
     <em>{{ talk.event }}</em>,
     {{ talk.institution }}{% if talk.location %},
     {{ talk.location }}{% endif %}
     — {{ talk_date | strip }}{% if talk.note %}. ({{ talk.note }}){% endif %}
+
   </div>
+
+
+  {% if talk.abstract %}
+
+    <details class="talk-abstract">
+
+      <summary>Abstract</summary>
+
+      <div class="talk-abstract-content">
+
+        {{ talk.abstract | markdownify }}
+
+      </div>
+
+    </details>
+
+  {% endif %}
 
 </li>
