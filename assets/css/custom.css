@@ -132,3 +132,51 @@
     margin-bottom: 1.6rem;
   }
 }
+
+
+/* ==================================================
+   Talk abstracts
+   ================================================== */
+
+.talk-abstract {
+  margin-top: 0.45rem;
+  margin-bottom: 0.2rem;
+}
+
+.talk-abstract summary {
+  display: inline-block;
+  padding: 0.18rem 0.55rem;
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.82em;
+  line-height: 1.4;
+  color: inherit;
+  background: transparent;
+  user-select: none;
+}
+
+.talk-abstract summary:hover {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+.talk-abstract summary::before {
+  content: "▸ ";
+}
+
+.talk-abstract[open] summary::before {
+  content: "▾ ";
+}
+
+.talk-abstract-content {
+  margin-top: 0.55rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid rgba(0, 0, 0, 0.12);
+  font-size: 0.94em;
+  line-height: 1.55;
+}
+
+.talk-abstract-content p {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
