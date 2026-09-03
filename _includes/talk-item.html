@@ -41,11 +41,8 @@
     data-category="{{ talk.category }}">
 
   <div class="talk-title">
-
     <strong>{{ talk.title }}</strong>
-
   </div>
-
 
   <div class="talk-details">
 
@@ -54,23 +51,18 @@
     {{ talk.location }}{% endif %}
     — {{ talk_date | strip }}{% if talk.note %}. ({{ talk.note }}){% endif %}
 
+    {% if talk.abstract %}
+      <details class="talk-abstract-inline">
+
+        <summary>Abstract</summary>
+
+        <div class="talk-abstract-content">
+          {{ talk.abstract | markdownify }}
+        </div>
+
+      </details>
+    {% endif %}
+
   </div>
-
-
-  {% if talk.abstract %}
-
-    <details class="talk-abstract">
-
-      <summary>Abstract</summary>
-
-      <div class="talk-abstract-content">
-
-        {{ talk.abstract | markdownify }}
-
-      </div>
-
-    </details>
-
-  {% endif %}
 
 </li>
