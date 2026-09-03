@@ -88,6 +88,8 @@
   institution: "Research Center for Mathematics and Interdisciplinary Sciences, Shandong University"
   location: "Qingdao, China"
   note: "30 minutes"
+  abstract: >-
+    In this talk, I will introduce the application of the partial Legendre transform to two-dimensional Monge-Ampère type equations, based on my recent joint works with Bin Zhou. In particular, I will demonstrate how the partial Legendre transform can be used to establish interior estimates and Liouville-type theorems for Monge-Ampère equations, linearized Monge-Ampère equations, as well as Monge-Ampère type fourth-order equations in two dimensions.
 
 - title: "Interior estimates for the Monge–Ampère type fourth-order equations"
   date: "2025-05-06"
@@ -142,6 +144,8 @@
   institution: "School of Mathematical Sciences, Inner Mongolia University"
   location: "Hohhot, China"
   note: "30 minutes"
+  abstract: >-
+    We study the solvability of singular Abreu equations which arise in the approximation of convex functionals subject to a convexity constraint. Previous works established the solvability of their second boundary value problems either in two dimensions, or in higher dimensions under either a smallness condition or a radial symmetry condition. Here, we solve the higher dimensional case by transforming singular Abreu equations into linearized Monge-Ampère equations with drifts. We establish global Hölder estimates for the linearized Monge-Ampère equation with drifts under suitable hypotheses, and then use them to the regularity and solvability of the second boundary value problem for singular Abreu equations in higher dimensions. Many cases with general right-hand side will also be discussed.
 
 - title: "Interior estimates for the Monge–Ampère type fourth-order equations"
   date: "2024-03-24"
