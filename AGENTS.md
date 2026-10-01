@@ -628,37 +628,32 @@ Never claim a build passed unless it was actually run.
 
 ## 17. Git workflow
 
-Prefer working on a branch and creating a pull request.
+This is a personal academic homepage repository.
 
-Recommended workflow:
+The default workflow is to work directly on the `master` branch.
 
-```text
-inspect repository
-→ create branch
-→ make focused edits
-→ validate
-→ review diff
-→ commit
-→ open pull request
-```
+For routine maintenance:
 
-Do not push directly to `master` unless the user explicitly requests direct changes.
+1. inspect the latest `master`
+2. make the smallest necessary change
+3. validate the modified files
+4. inspect the complete diff
+5. create one focused commit
+6. push directly to `origin/master`
 
-Use concise commit messages, for example:
+Do not create branches or pull requests unless explicitly requested.
 
-```text
-Add September talk
-Update publication data
-Improve talk abstract toggle
-Fix talk abstract formatting
-```
+Never:
 
-Pull requests should summarize:
+- force-push
+- rewrite published history
+- push unvalidated changes when validation is available
+- delete unrelated files
+- combine unrelated maintenance tasks into one commit
 
-- what changed
-- which files changed
-- what validation was performed
-- any assumptions or unresolved issues
+If validation fails, fix the problem before pushing.
+
+If a pushed change later proves incorrect, prefer a normal corrective commit or `git revert` rather than rewriting history.
 
 ## 18. Scope control
 
@@ -689,8 +684,9 @@ After completing a task, report briefly:
 1. files changed
 2. what was changed
 3. validation performed
-4. anything the user still needs to provide or verify
+4. commit hash
+5. whether the push to `master` succeeded
+6. anything that still requires confirmation
 
-Do not give a long tutorial unless requested.
-
+Do not claim that a commit or push succeeded unless it actually succeeded.
 If a change has not actually been committed or pushed, say so explicitly.
