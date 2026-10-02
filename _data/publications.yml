@@ -16,6 +16,23 @@ topics:
 
 
 items:
+  - title: "Global Hölder estimates for linearized Monge-Ampère equations in divergence form with applications to dual semigeostrophic equations and periodic homogenization"
+    year: 2026
+    topic: monge-ampere
+    selected: false
+    authors:
+      - name: "G. Q. Cui"
+        url: "https://gqcuimath.github.io/"
+      - name: "C. Gu"
+        url: "https://sites.google.com/view/chonggu/"
+      -name: "N. Q. Le"
+        url: "https://nqle.pages.iu.edu/"
+      - name: "B. Zhou"
+        url: "https://bzhou1982.github.io/"
+    citation: "Preprint (2026)."
+    pdf: "/files/holder_LMA.pdf"
+    arxiv: "https://arxiv.org/abs/2610.02071"
+  
   - title: "Asymptotic expansions of the fundamental solution for a mixed local–nonlocal operator"
     year: 2026
     topic: elliptic-problems
