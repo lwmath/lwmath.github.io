@@ -1,3 +1,20 @@
+- title: "Title to be announced"
+  date: "2027-01-18"
+  end_date: "2027-01-22"
+  category: conference
+  event: "Short-term Program in GMT: Multiple-valued functions"
+  institution: "Institute for Theoretical Sciences, Westlake University"
+  location: "Hangzhou, China"
+
+- title: "A brief introduction to anisotropic minimal surfaces"
+  date: "2026-12-08"
+  category: seminar
+  event: "Working Group Seminar: Geometrical Analysis"
+  institution: "Mathematical Institute, University of Freiburg"
+  location: "Freiburg, Germany"
+  abstract: >-
+    In this talk, I will give a brief introduction to the theory of anisotropic minimal surfaces, starting from the classical area functional and its anisotropic counterparts, in which the surface energy depends on the tangent plane or, in the hypersurface case, on the unit normal. I will discuss some of the main questions concerning existence, rectifiability, and regularity, together with their historical development. Particular attention will be paid to the absence, for general anisotropic integrands, of the monotonicity formula available in the classical setting, and to the additional difficulties this creates in the study of minimizers and stationary varifolds. I will conclude with some recent developments in anisotropic min-max theory, including joint work with Antonio De Rosa and Aria Halavati.
+
 - title: "TBA"
   date: "2026-11-17"
   category: seminar
