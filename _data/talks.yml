@@ -15,19 +15,33 @@
   abstract: >-
     In this talk, I will give a brief introduction to the theory of anisotropic minimal surfaces, starting from the classical area functional and its anisotropic counterparts, in which the surface energy depends on the tangent plane or, in the hypersurface case, on the unit normal. I will discuss some of the main questions concerning existence, rectifiability, and regularity, together with their historical development. Particular attention will be paid to the absence, for general anisotropic integrands, of the monotonicity formula available in the classical setting, and to the additional difficulties this creates in the study of minimizers and stationary varifolds. I will conclude with some recent developments in anisotropic min-max theory, including joint work with Antonio De Rosa and Aria Halavati.
 
-- title: "TBA"
+- title: "Regularity for Monge–Ampère type equations and anisotropic minimal surfaces"
+  date: "2026-11-20"
+  end_date: "2026-11-23"
+  category: conference
+  event: "Frontiers and Innovation in Mathematics and Multidisciplinary Sciences Sub-Forum"
+  institution: "Academy for Multidisciplinary Studies, Capital Normal University"
+  location: "Beijing, China"
+  abstract: >-
+    Many fundamental questions in geometric analysis are closely connected with nonlinear partial differential equations and variational problems, where regularity, existence, and rigidity are central themes. In this talk, I will give an overview of my recent research in two directions. The first concerns Monge–Ampère type equations, their linearizations, and related fourth-order equations. I will highlight some interior regularity estimates and the analytical techniques underlying them. The second concerns the variational theory of anisotropic minimal surfaces, with particular emphasis on min-max constructions, regularity, and genus bounds. I will conclude by discussing several related questions and possible directions for future research.
+
+- title: "The affine Bernstein problem"
   date: "2026-11-17"
   category: seminar
   event: "Seminar"
   institution: "Department of Mathematical Sciences, Tsinghua University"
   location: "Beijing, China"
+  abstract: >-
+    The affine Bernstein problem asks whether every locally uniformly convex affine maximal graph that is complete with respect to the induced Euclidean metric must be an elliptic paraboloid. As an affine analogue of the classical Bernstein problem, it has a rich history, with fundamental contributions by Trudinger and Wang. Recent work by OpenAI, building on the framework developed by Trudinger and Wang, establishes Bernstein rigidity in dimensions three through nine. Together with the existence of smooth nonquadratic examples in dimension ten, this identifies the sharp dimension threshold. The aim of this talk is to provide an overview of the problem and the ideas behind these developments. I will first explain the Trudinger–Wang framework, then outline how OpenAI builds on it to establish the higher-dimensional rigidity result. If time permits, I will discuss some of the key steps of OpenAI's proof in details.
 
-- title: "TBA"
+- title: "The affine Bernstein problem"
   date: "2026-11-18"
   category: seminar
   event: "Seminar"
   institution: "School of Statistics, University of International Business and Economics"
   location: "Beijing, China"
+  abstract: >-
+    The affine Bernstein problem asks whether every locally uniformly convex affine maximal graph that is complete with respect to the induced Euclidean metric must be an elliptic paraboloid. As an affine analogue of the classical Bernstein problem, it has a rich history, with fundamental contributions by Trudinger and Wang. Recent work by OpenAI, building on the framework developed by Trudinger and Wang, establishes Bernstein rigidity in dimensions three through nine. Together with the existence of smooth nonquadratic examples in dimension ten, this identifies the sharp dimension threshold. The aim of this talk is to provide an overview of the problem and the ideas behind these developments. I will first explain the Trudinger–Wang framework, then outline how OpenAI builds on it to establish the higher-dimensional rigidity result. If time permits, I will discuss some of the key steps of OpenAI's proof in details.
 
 - title: "A brief introduction to anisotropic minimal surfaces"
   date: "2026-09-18"
